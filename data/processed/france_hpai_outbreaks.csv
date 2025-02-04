@@ -1,0 +1,1008 @@
+Event ID,Disease,Serotype,latitude,longitude,Locality,Country,Region,observation date,report date,Species,Diagnosis Source,Humans Affected,Human Deaths,Diagnosis Status
+308128,Influenza - Avian,;H5N1 HPAI;,47.803519,-3.231016,LANGUIDIC,France,Europe,2021-11-20 00:00:00+00:00,2021-12-03 00:00:00+00:00,"Domestic,Goose,",WOAH (former OIE),,,Confirmed
+310769,Influenza - Avian,;H5N1 HPAI;,47.803519,-3.231016,LANGUIDIC,France,Europe,2021-11-20 00:00:00+00:00,2022-01-10 00:00:00+00:00,"Domestic,Goose,",WOAH (former OIE),,,Confirmed
+308719,Influenza - Avian,;H5N1 HPAI;,50.978537,2.532873,WARHEM,France,Europe,2021-11-21 00:00:00+00:00,2021-12-10 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+308503,Influenza - Avian,;H5N1 HPAI;,50.978537,2.532873,WARHEM,France,Europe,2021-11-21 00:00:00+00:00,2021-12-07 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+308504,Influenza - Avian,;H5N1 HPAI;,50.851232,2.537569,WINNEZEELE,France,Europe,2021-12-03 00:00:00+00:00,2021-12-07 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+309012,Influenza - Avian,;H5N1 HPAI;,50.851232,2.537569,WINNEZEELE,France,Europe,2021-12-03 00:00:00+00:00,2021-12-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311269,Influenza - Avian,;H5N1 HPAI;,50.858531,2.488412,WORMHOUT,France,Europe,2021-12-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+308718,Influenza - Avian,;H5N1 HPAI;,50.858531,2.488412,WORMHOUT,France,Europe,2021-12-04 00:00:00+00:00,2021-12-10 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+308720,Influenza - Avian,;H5N1 HPAI;,50.901218,2.523837,HERZEELE,France,Europe,2021-12-05 00:00:00+00:00,2021-12-10 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311272,Influenza - Avian,;H5N1 HPAI;,50.901218,2.523837,HERZEELE,France,Europe,2021-12-05 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+311231,Influenza - Avian,;H5N1 HPAI;,43.609712,-0.409798,PUYOL-CAZALET,France,Europe,2021-12-05 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311261,Influenza - Avian,;H5N1 HPAI;,50.91962,2.568978,REXPOEDE,France,Europe,2021-12-06 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+308721,Influenza - Avian,;H5N1 HPAI;,50.91962,2.568978,REXPOEDE,France,Europe,2021-12-06 00:00:00+00:00,2021-12-10 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+309011,Influenza - Avian,;H5N1 HPAI;,50.950039,2.523004,REXPOEDE,France,Europe,2021-12-08 00:00:00+00:00,2021-12-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311232,Influenza - Avian,;H5N1 HPAI;,43.692063,-0.42941,saint-loubouer,France,Europe,2021-12-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311274,Influenza - Avian,;H5N1 HPAI;,50.950039,2.523004,REXPOEDE,France,Europe,2021-12-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+309177,Influenza - Avian,;H5N1 HPAI;,50.856444,2.561795,WINNEZEELE,France,Europe,2021-12-11 00:00:00+00:00,2021-12-17 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+311211,Influenza - Avian,;H5N1 HPAI;,43.5755,-0.3771,PIMBO,France,Europe,2021-12-12 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+309178,Influenza - Avian,;H5N1 HPAI;,43.810164,0.083668,MANCIET,France,Europe,2021-12-14 00:00:00+00:00,2021-12-17 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311219,Influenza - Avian,;H5N1 HPAI;,43.726605,-0.250436,aire-sur-l'adour,France,Europe,2021-12-16 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311238,Influenza - Avian,;H5N1 HPAI;,43.507473,-1.145527,HASTINGUES,France,Europe,2021-12-16 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311215,Influenza - Avian,;H5N1 HPAI;,43.257543,-0.680154,AREN,France,Europe,2021-12-16 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311246,Influenza - Avian,;H5N1 HPAI;,50.879498,2.519091,HERZEELE,France,Europe,2021-12-16 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311204,Influenza - Avian,;H5N1 HPAI;,43.501351,-1.104039,CAME,France,Europe,2021-12-18 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310202,Influenza - Avian,;H5N1 HPAI;,43.566967,-0.484911,MALAUSSANNE,France,Europe,2021-12-23 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310199,Influenza - Avian,;H5N1 HPAI;,43.582689,-0.506727,MANT,France,Europe,2021-12-23 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311270,Influenza - Avian,;H5N1 HPAI;,43.566967,-0.484911,MALAUSSANNE,France,Europe,2021-12-23 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311228,Influenza - Avian,;H5N1 HPAI;,43.607608,-0.279153,saint-agnet,France,Europe,2021-12-23 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311230,Influenza - Avian,;H5N1 HPAI;,43.694063,-0.705763,MAYLIS,France,Europe,2021-12-23 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311266,Influenza - Avian,;H5N1 HPAI;,43.582689,-0.506727,MANT,France,Europe,2021-12-23 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311229,Influenza - Avian,;H5N1 HPAI;,43.67405,-0.535403,saint-colombe,France,Europe,2021-12-24 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310280,Influenza - Avian,;H5N1 HPAI;,43.5591,-0.4732,MALAUSSANNE,France,Europe,2021-12-24 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311268,Influenza - Avian,;H5N1 HPAI;,43.592078,-0.514105,MANT,France,Europe,2021-12-24 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310201,Influenza - Avian,;H5N1 HPAI;,43.592078,-0.514105,MANT,France,Europe,2021-12-24 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311267,Influenza - Avian,;H5N1 HPAI;,43.556776,-0.578007,CASTELNER,France,Europe,2021-12-25 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311265,Influenza - Avian,;H5N1 HPAI;,43.592078,-0.514105,MANT,France,Europe,2021-12-25 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310203,Influenza - Avian,;H5N1 HPAI;,43.596402,-0.511914,MANT,France,Europe,2021-12-25 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310200,Influenza - Avian,;H5N1 HPAI;,43.556776,-0.578007,CASTELNER,France,Europe,2021-12-25 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310198,Influenza - Avian,;H5N1 HPAI;,43.592078,-0.514105,MANT,France,Europe,2021-12-25 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310197,Influenza - Avian,;H5N1 HPAI;,43.586839,-0.525382,MANT,France,Europe,2021-12-25 00:00:00+00:00,2021-12-29 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311283,Influenza - Avian,;H5N1 HPAI;,43.596402,-0.511914,MANT,France,Europe,2021-12-25 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310282,Influenza - Avian,;H5N1 HPAI;,43.566028,-0.56013,PEYRE,France,Europe,2021-12-27 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310281,Influenza - Avian,;H5N1 HPAI;,43.593331,-0.517458,MANT,France,Europe,2021-12-27 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+310285,Influenza - Avian,;H5N1 HPAI;,43.572847,-0.65648,CASTAIGNOS-SOUSLENS,France,Europe,2021-12-29 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+310286,Influenza - Avian,;H5N1 HPAI;,43.593548,-0.524582,MANT,France,Europe,2021-12-29 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+310283,Influenza - Avian,;H5N1 HPAI;,43.583353,-0.522675,MANT,France,Europe,2021-12-29 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+310284,Influenza - Avian,;H5N1 HPAI;,43.578147,-0.509264,MANT,France,Europe,2021-12-29 00:00:00+00:00,2021-12-31 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311256,Influenza - Avian,;H5N1 HPAI;,43.623868,-0.731046,GAUJACQ,France,Europe,2021-12-30 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311205,Influenza - Avian,;H5N1 HPAI;,43.618225,-0.439642,ARBOUCAVE,France,Europe,2021-12-30 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310772,Influenza - Avian,;H5N1 HPAI;,43.291752,0.73745,escanecrabe,France,Europe,2022-01-02 00:00:00+00:00,2022-01-10 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+322834,Influenza - Avian,;H5N1 HPAI;,47.299822,-0.812069,MAUGES-SUR-LOIRE,France,Europe,2022-01-04 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+311254,Influenza - Avian,;H5N1 HPAI;,43.57501,-0.668437,MARPAPS,France,Europe,2022-01-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311223,Influenza - Avian,;H5N1 HPAI;,43.709312,-0.713173,saint-aubin,France,Europe,2022-01-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311206,Influenza - Avian,;H5N1 HPAI;,43.844669,0.074937,EAUZE,France,Europe,2022-01-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311208,Influenza - Avian,;H5N1 HPAI;,43.563564,-0.523522,MONGET,France,Europe,2022-01-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311207,Influenza - Avian,;H5N1 HPAI;,43.285128,-0.735624,dognen,France,Europe,2022-01-04 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311242,Influenza - Avian,;H5N1 HPAI;,43.391081,-0.069475,BENTAYOU-SEREE,France,Europe,2022-01-05 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+322843,Influenza - Avian,;H5N1 HPAI;,46.816754,-0.459527,BRESSUIRE,France,Europe,2022-01-05 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313587,Influenza - Avian,;H5N1 HPAI;,43.69243,-0.228727,BARCELONNE-DU-GERS,France,Europe,2022-01-05 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324602,Influenza - Avian,;H5N1 HPAI;,43.624022,-0.692857,BRASSEMPOUY,France,Europe,2022-01-05 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311214,Influenza - Avian,;H5N1 HPAI;,43.604571,-0.570744,MORGANX,France,Europe,2022-01-05 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311217,Influenza - Avian,;H5N1 HPAI;,43.392291,-0.063741,BENTAYOU-SEREE,France,Europe,2022-01-05 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+310771,Influenza - Avian,;H5N1 HPAI;,46.608786,1.40076,RIVARENNES,France,Europe,2022-01-06 00:00:00+00:00,2022-01-10 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+311263,Influenza - Avian,;H5N1 HPAI;,43.25256,-0.67181,POEY-D'OLORON,France,Europe,2022-01-06 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313565,Influenza - Avian,;H5N1 HPAI;,43.598818,-0.424809,LACAJUNTE,France,Europe,2022-01-06 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311236,Influenza - Avian,;H5N1 HPAI;,43.27489,-0.702965,prechacq-navarrenx,France,Europe,2022-01-06 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313575,Influenza - Avian,;H5N1 HPAI;,43.203988,-0.939901,ORDIARP,France,Europe,2022-01-06 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311282,Influenza - Avian,;H5N1 HPAI;,43.616423,-0.629215,MOMUY,France,Europe,2022-01-06 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311237,Influenza - Avian,;H5N1 HPAI;,43.664689,-0.287941,aire-sur-l'adour,France,Europe,2022-01-06 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313624,Influenza - Avian,;H5N1 HPAI;,43.725815,-0.422877,BUANES,France,Europe,2022-01-06 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311271,Influenza - Avian,;H5N1 HPAI;,43.61188,-0.321057,miramont-sensacq,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313664,Influenza - Avian,;H5N1 HPAI;,43.668202,-0.5178,SERRES-GASTON,France,Europe,2022-01-07 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311243,Influenza - Avian,;H5N1 HPAI;,44.392587,0.37236,clairac,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311240,Influenza - Avian,;H5N1 HPAI;,43.6502,-0.519958,SAMADET,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311239,Influenza - Avian,;H5N1 HPAI;,43.145096,-0.076328,LOUBAJAC,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311279,Influenza - Avian,;H5N1 HPAI;,43.712775,-0.402087,CLASSUN,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313586,Influenza - Avian,;H5N1 HPAI;,43.603309,-0.263281,SAINT-AGNET,France,Europe,2022-01-07 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311275,Influenza - Avian,;H5N1 HPAI;,43.574078,-0.203936,CASTETPUGON,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311273,Influenza - Avian,;H5N1 HPAI;,43.62288,-0.491072,SAMADET,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311234,Influenza - Avian,;H5N1 HPAI;,43.560219,-0.705924,BONNEGARDE,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324615,Influenza - Avian,;H5N1 HPAI;,43.698359,-0.295518,AIRE-SUR-L'ADOUR,France,Europe,2022-01-07 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318374,Influenza - Avian,;H5N1 HPAI;,43.631635,-0.507505,SAMADET,France,Europe,2022-01-07 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311216,Influenza - Avian,;H5N1 HPAI;,43.580389,-0.468023,MALAUSSANNE,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311235,Influenza - Avian,;H5N1 HPAI;,43.24613,-0.660196,POEY-D'OLORON,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311278,Influenza - Avian,;H5N1 HPAI;,43.633506,-0.493856,SAMADET,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311280,Influenza - Avian,;H5N1 HPAI;,46.508017,-0.64826,saint-hilaire-des-loges,France,Europe,2022-01-07 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311277,Influenza - Avian,;H5N1 HPAI;,43.638036,-0.51358,SAMADET,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311276,Influenza - Avian,;H5N1 HPAI;,43.554215,-0.283059,GARLIN,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311262,Influenza - Avian,;H5N1 HPAI;,43.261607,-0.660513,SAUCEDE,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311233,Influenza - Avian,;H5N1 HPAI;,43.663241,-0.472761,vielle-tursan,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311281,Influenza - Avian,;H5N1 HPAI;,43.684122,-0.317977,bahus-soubiran,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311226,Influenza - Avian,;H5N1 HPAI;,43.663375,-0.723022,bergouey,France,Europe,2022-01-08 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311260,Influenza - Avian,;H5N1 HPAI;,43.220991,-0.645,VERDETS,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311227,Influenza - Avian,;H5N1 HPAI;,43.645785,-0.517215,SAMADET,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324637,Influenza - Avian,;H5N1 HPAI;,43.752256,-0.435939,LARRIVIERE-SAINT-SAVIN,France,Europe,2022-01-09 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311225,Influenza - Avian,;H5N1 HPAI;,43.620455,-0.675099,CAZALIS,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311264,Influenza - Avian,;H5N1 HPAI;,43.52128,-0.695612,SALLESPISSE,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311259,Influenza - Avian,;H5N1 HPAI;,43.686036,-0.203236,barcelonne-du-gers,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311247,Influenza - Avian,;H5N1 HPAI;,43.642693,-0.486863,SAMADET,France,Europe,2022-01-09 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311252,Influenza - Avian,;H5N1 HPAI;,43.663401,-0.336422,bahus-soubiran,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311209,Influenza - Avian,;H5N1 HPAI;,43.504969,-0.750521,ORTHEZ,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311251,Influenza - Avian,;H5N1 HPAI;,43.680376,-0.495855,kinks,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311224,Influenza - Avian,;H5N1 HPAI;,43.560895,-0.598469,BASSERCLES,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311253,Influenza - Avian,;H5N1 HPAI;,43.674709,-0.801317,BAIGTS,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311258,Influenza - Avian,;H5N1 HPAI;,43.736903,-0.155138,LUPPE-VIOLLES,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311220,Influenza - Avian,;H5N1 HPAI;,43.611844,-0.261326,saint-agnet,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313568,Influenza - Avian,;H5N1 HPAI;,43.896226,-0.799665,BEYLONGUE,France,Europe,2022-01-10 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313564,Influenza - Avian,;H5N1 HPAI;,43.783635,-0.36692,BORDERES-ET-LAMENSANS,France,Europe,2022-01-10 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311257,Influenza - Avian,;H5N1 HPAI;,43.741037,0.200144,CASTILLON-DEBATS,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311212,Influenza - Avian,;H5N1 HPAI;,43.662962,-0.583195,HAGETMAU,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313613,Influenza - Avian,;H5N1 HPAI;,43.566585,-0.344455,LAURET,France,Europe,2022-01-10 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311222,Influenza - Avian,;H5N1 HPAI;,43.627203,-0.468769,SAMADET,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311210,Influenza - Avian,;H5N1 HPAI;,43.549047,-0.524826,ARGET,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311248,Influenza - Avian,;H5N1 HPAI;,43.434339,-0.046248,vidouze,France,Europe,2022-01-10 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311241,Influenza - Avian,;H5N1 HPAI;,43.645164,-0.675023,SAINT-CRICQ-CHALOSSE,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311255,Influenza - Avian,;H5N1 HPAI;,43.603698,-0.550432,MONSEGUR,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311250,Influenza - Avian,;H5N1 HPAI;,43.675546,-0.761211,CAUPENNE,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311221,Influenza - Avian,;H5N1 HPAI;,50.856444,2.561795,WINNEZEELE,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+311213,Influenza - Avian,;H5N1 HPAI;,43.309115,-0.882816,LICHOS,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311244,Influenza - Avian,;H5N1 HPAI;,43.722921,-0.411845,buanes,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311249,Influenza - Avian,;H5N1 HPAI;,43.687691,-0.71245,MAYLIS,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+311245,Influenza - Avian,;H5N1 HPAI;,43.65966,-0.566072,HAGETMAU,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+311218,Influenza - Avian,;H5N1 HPAI;,43.614285,-0.436906,ARBOUCAVE,France,Europe,2022-01-11 00:00:00+00:00,2022-01-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324636,Influenza - Avian,;H5N1 HPAI;,43.615928,-0.310331,MIRAMONT-SENSACQ,France,Europe,2022-01-12 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313567,Influenza - Avian,;H5N1 HPAI;,43.706802,-0.036399,SAINT-MARTIN-D'ARMAGNAC,France,Europe,2022-01-12 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313625,Influenza - Avian,;H5N1 HPAI;,43.678582,-0.192852,GEE-RIVIERE,France,Europe,2022-01-14 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324614,Influenza - Avian,;H5N1 HPAI;,43.775613,-0.720575,SOUPROSSE,France,Europe,2022-01-16 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313589,Influenza - Avian,;H5N1 HPAI;,43.709263,-0.849199,MONTFORT-EN-CHALOSSE,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313631,Influenza - Avian,;H5N1 HPAI;,43.184616,-0.063737,OSSUN,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313623,Influenza - Avian,;H5N1 HPAI;,43.834231,0.679646,FLEURANCE,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313622,Influenza - Avian,;H5N1 HPAI;,43.683631,-0.029964,TERMES-D'ARMAGNAC,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313621,Influenza - Avian,;H5N1 HPAI;,43.82303,0.691379,CERAN,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313591,Influenza - Avian,;H5N1 HPAI;,43.255846,-0.980484,LOHITZUN-OYHERCQ,France,Europe,2022-01-17 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313639,Influenza - Avian,;H5N1 HPAI;,43.8801,0.202258,LAGRAULET-DU-GERS,France,Europe,2022-01-18 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313620,Influenza - Avian,;H5N1 HPAI;,43.64884,-0.067018,RISCLE,France,Europe,2022-01-18 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313590,Influenza - Avian,;H5N1 HPAI;,43.989922,0.136631,CASTELNAU D'AUZAN LABARRERE,France,Europe,2022-01-18 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313566,Influenza - Avian,;H5N1 HPAI;,43.655139,-0.897953,CLERMONT,France,Europe,2022-01-18 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313632,Influenza - Avian,;H5N1 HPAI;,43.755612,-0.19678,HOUGA,France,Europe,2022-01-20 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313633,Influenza - Avian,;H5N1 HPAI;,43.567619,-0.719405,BONNEGARDE,France,Europe,2022-01-20 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313641,Influenza - Avian,;H5N1 HPAI;,43.62216,-0.287548,LATRILLE,France,Europe,2022-01-21 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313643,Influenza - Avian,;H5N1 HPAI;,43.480394,-0.953518,SALIES-DE-BEARN,France,Europe,2022-01-21 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324639,Influenza - Avian,;H5N1 HPAI;,43.748758,-0.698979,TOULOUZETTE,France,Europe,2022-01-21 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313642,Influenza - Avian,;H5N1 HPAI;,43.575819,-0.975733,MISSON,France,Europe,2022-01-21 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313579,Influenza - Avian,;H5N1 HPAI;,43.628134,-0.331675,SORBETS,France,Europe,2022-01-21 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313636,Influenza - Avian,;H5N1 HPAI;,43.702984,-0.629671,DOAZIT,France,Europe,2022-01-21 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313640,Influenza - Avian,;H5N1 HPAI;,43.655296,-0.897965,CLERMONT,France,Europe,2022-01-23 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313663,Influenza - Avian,;H5N1 HPAI;,43.395039,-0.902453,ANDREIN,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313581,Influenza - Avian,;H5N1 HPAI;,43.585423,-0.380167,PIMBO,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313648,Influenza - Avian,;H5N1 HPAI;,43.815352,-0.562908,HAUT-MAUCO,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313645,Influenza - Avian,;H5N1 HPAI;,43.732411,-0.653515,MONTAUT,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313634,Influenza - Avian,;H5N1 HPAI;,43.577619,-0.734199,AMOU,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313644,Influenza - Avian,;H5N1 HPAI;,43.875505,-0.763432,SAINT-YAGUEN,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313646,Influenza - Avian,;H5N1 HPAI;,43.827699,-0.314347,SAINT-GEIN,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313638,Influenza - Avian,;H5N1 HPAI;,43.653673,-0.01264,IZOTGES,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313637,Influenza - Avian,;H5N1 HPAI;,43.614228,-0.82245,POMAREZ,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313647,Influenza - Avian,;H5N1 HPAI;,43.615878,-0.814678,POMAREZ,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313588,Influenza - Avian,;H5N1 HPAI;,43.787798,-0.372765,BORDERES-ET-LAMENSANS,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+313580,Influenza - Avian,;H5N1 HPAI;,43.650764,-0.366375,PECORADE,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313635,Influenza - Avian,;H5N1 HPAI;,46.808996,-1.783903,SAINT-CHRISTOPHE-DU-LIGNERON,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313577,Influenza - Avian,;H5N1 HPAI;,43.618289,-0.280582,SAINT-AGNET,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313656,Influenza - Avian,;H5N1 HPAI;,43.19032,-0.098105,PONTACQ,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313578,Influenza - Avian,;H5N1 HPAI;,43.790714,-0.284258,VIGNAU,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313649,Influenza - Avian,;H5N1 HPAI;,43.396095,-0.896136,ANDREIN,France,Europe,2022-01-24 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313584,Influenza - Avian,;H5N1 HPAI;,43.649927,-0.435916,URGONS,France,Europe,2022-01-25 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313658,Influenza - Avian,;H5N1 HPAI;,43.576488,-0.932889,HABAS,France,Europe,2022-01-25 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313654,Influenza - Avian,;H5N1 HPAI;,43.778621,-0.520216,SAINT-SEVER,France,Europe,2022-01-25 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313583,Influenza - Avian,;H5N1 HPAI;,43.680884,-0.429923,SAINT-LOUBOUER,France,Europe,2022-01-25 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313655,Influenza - Avian,;H5N1 HPAI;,43.253269,-0.977282,LOHITZUN-OYHERCQ,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313650,Influenza - Avian,;H5N1 HPAI;,43.901969,-0.139963,MAULEON-D'ARMAGNAC,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313653,Influenza - Avian,;H5N1 HPAI;,43.396532,-0.951611,SAUVETERRE-DE-BEARN,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313582,Influenza - Avian,;H5N1 HPAI;,43.642224,-0.279469,SEGOS,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313657,Influenza - Avian,;H5N1 HPAI;,43.792535,-0.346255,CASTANDET,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313652,Influenza - Avian,;H5N1 HPAI;,44.066926,-0.156245,VIELLE-SOUBIRAN,France,Europe,2022-01-26 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324604,Influenza - Avian,;H5N1 HPAI;,43.614555,-0.42365,ARBOUCAVE,France,Europe,2022-01-26 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313598,Influenza - Avian,;H5N1 HPAI;,43.708304,-0.664819,DOAZIT,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313629,Influenza - Avian,;H5N1 HPAI;,43.755851,-0.655165,TOULOUZETTE,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313572,Influenza - Avian,;H5N1 HPAI;,43.680208,-0.832857,POYARTIN,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313599,Influenza - Avian,;H5N1 HPAI;,43.701048,-0.65572,DOAZIT,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313612,Influenza - Avian,;H5N1 HPAI;,49.602071,1.600345,BELLIERE,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+313573,Influenza - Avian,;H5N1 HPAI;,43.402084,-0.888675,ANDREIN,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313602,Influenza - Avian,;H5N1 HPAI;,43.724305,-0.747376,SAINT-AUBIN,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313606,Influenza - Avian,;H5N1 HPAI;,43.760588,-0.661294,TOULOUZETTE,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313651,Influenza - Avian,;H5N1 HPAI;,43.436497,-1.004515,ESCOS,France,Europe,2022-01-27 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313659,Influenza - Avian,;H5N1 HPAI;,43.624463,-0.389132,PAYROS-CAZAUTETS,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313571,Influenza - Avian,;H5N1 HPAI;,43.349843,-0.869897,RIVEHAUTE,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313597,Influenza - Avian,;H5N1 HPAI;,43.408141,-0.97403,ATHOS-ASPIS,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313574,Influenza - Avian,;H5N1 HPAI;,43.523551,-0.554303,CASTEIDE-CANDAU,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313662,Influenza - Avian,;H5N1 HPAI;,43.637127,-0.452853,BATS,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313618,Influenza - Avian,;H5N1 HPAI;,43.67906,-0.295481,AIRE-SUR-L'ADOUR,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313660,Influenza - Avian,;H5N1 HPAI;,43.659775,-0.45564,BATS,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+313608,Influenza - Avian,;H5N1 HPAI;,43.730637,-0.784706,LOURQUEN,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313661,Influenza - Avian,;H5N1 HPAI;,43.663788,-0.457087,BATS,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313596,Influenza - Avian,;H5N1 HPAI;,43.53171,-0.806624,SAINT-BOES,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313609,Influenza - Avian,;H5N1 HPAI;,43.762204,-0.725026,SOUPROSSE,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313600,Influenza - Avian,;H5N1 HPAI;,43.743141,-0.762487,MUGRON,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313593,Influenza - Avian,;H5N1 HPAI;,43.594954,-0.836768,TILH,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313585,Influenza - Avian,;H5N1 HPAI;,43.606634,-0.435226,ARBOUCAVE,France,Europe,2022-01-28 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313570,Influenza - Avian,;H5N1 HPAI;,43.630767,-0.663599,CAZALIS,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313605,Influenza - Avian,;H5N1 HPAI;,43.646975,-0.94108,MIMBASTE,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313603,Influenza - Avian,;H5N1 HPAI;,43.760245,-0.880938,CASSEN,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313604,Influenza - Avian,;H5N1 HPAI;,43.717479,-0.79052,LAHOSSE,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313619,Influenza - Avian,;H5N1 HPAI;,43.756134,-0.680267,TOULOUZETTE,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313594,Influenza - Avian,;H5N1 HPAI;,43.413096,-0.965794,ATHOS-ASPIS,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313595,Influenza - Avian,;H5N1 HPAI;,43.55422,-0.82956,SAINT-GIRONS-EN-BEARN,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313607,Influenza - Avian,;H5N1 HPAI;,43.770615,-0.298532,VIGNAU,France,Europe,2022-01-29 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313569,Influenza - Avian,;H5N1 HPAI;,43.427773,-0.289005,LASCLAVERIES,France,Europe,2022-01-30 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313592,Influenza - Avian,;H5N1 HPAI;,43.471655,-0.369209,AUGA,France,Europe,2022-01-30 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313616,Influenza - Avian,;H5N1 HPAI;,43.727458,-0.781418,LOURQUEN,France,Europe,2022-01-31 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313617,Influenza - Avian,;H5N1 HPAI;,43.885962,-0.273873,PERQUIE,France,Europe,2022-01-31 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313601,Influenza - Avian,;H5N1 HPAI;,43.60338,-0.77802,AMOU,France,Europe,2022-01-31 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313615,Influenza - Avian,;H5N1 HPAI;,43.375043,-0.221436,GABASTON,France,Europe,2022-01-31 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313630,Influenza - Avian,;H5N1 HPAI;,43.792581,-0.508444,BENQUET,France,Europe,2022-02-01 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313576,Influenza - Avian,;H5N1 HPAI;,43.451379,-0.274507,SEVIGNACQ,France,Europe,2022-02-01 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313614,Influenza - Avian,;H5N1 HPAI;,44.065693,-0.163058,VIELLE-SOUBIRAN,France,Europe,2022-02-01 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+313610,Influenza - Avian,;H5N1 HPAI;,43.535375,-0.839699,BAIGTS-DE-BEARN,France,Europe,2022-02-01 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313611,Influenza - Avian,;H5N1 HPAI;,43.831199,0.036111,MANCIET,France,Europe,2022-02-01 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313628,Influenza - Avian,;H5N1 HPAI;,43.886155,-0.352133,SAINT-CRICQ-VILLENEUVE,France,Europe,2022-02-07 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313627,Influenza - Avian,;H5N1 HPAI;,46.781451,-1.71264,MACHE,France,Europe,2022-02-09 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+313626,Influenza - Avian,;H5N1 HPAI;,43.393147,-1.013451,GABAT,France,Europe,2022-02-10 00:00:00+00:00,2022-02-15 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315161,Influenza - Avian,;H5N1 HPAI;,43.297436,0.307864,LUBY-BETMONT,France,Europe,2022-02-22 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315160,Influenza - Avian,;H5N1 HPAI;,43.322081,0.314414,LUBRET-SAINT-LUC,France,Europe,2022-02-22 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315684,Influenza - Avian,;H5N1 HPAI;,43.383713,0.504986,AUJAN-MOURNEDE,France,Europe,2022-02-23 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315177,Influenza - Avian,;H5N1 HPAI;,46.929919,-1.487183,ROCHESERVIERE,France,Europe,2022-02-25 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315173,Influenza - Avian,;H5N1 HPAI;,46.86019,-1.198666,SAINT-FULGENT,France,Europe,2022-02-25 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315156,Influenza - Avian,;H5N1 HPAI;,46.845138,-1.540841,lucs-sur-boulogne,France,Europe,2022-02-25 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315166,Influenza - Avian,;H5N1 HPAI;,46.787375,-0.874234,SEVREMONT,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315171,Influenza - Avian,;H5N1 HPAI;,46.797802,-0.834749,POUZAUGES,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315158,Influenza - Avian,;H5N1 HPAI;,46.926707,-1.51463,ROCHESERVIERE,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315157,Influenza - Avian,;H5N1 HPAI;,46.792257,-1.48904,pear-on-life,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315176,Influenza - Avian,;H5N1 HPAI;,46.831022,-1.149111,vendrennes,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315188,Influenza - Avian,;H5N1 HPAI;,46.963206,-1.456251,oldvine,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315168,Influenza - Avian,;H5N1 HPAI;,46.868692,-1.265966,chavagnes-en-paillers,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315713,Influenza - Avian,;H5N1 HPAI;,46.835872,-1.528291,lucs-sur-boulogne,France,Europe,2022-02-26 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315178,Influenza - Avian,;H5N1 HPAI;,46.828252,-1.377723,saint-denis-la-chevasse,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315184,Influenza - Avian,;H5N1 HPAI;,46.545413,-0.392242,boissiere-en-gatine,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315174,Influenza - Avian,;H5N1 HPAI;,46.698782,-0.8886,tallud-sainte-gemme,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315163,Influenza - Avian,;H5N1 HPAI;,46.805289,-1.128513,essarts en bocage,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315159,Influenza - Avian,;H5N1 HPAI;,46.613849,-0.856756,SAINT-SULPICE-EN-PAREDS,France,Europe,2022-02-26 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315170,Influenza - Avian,;H5N1 HPAI;,46.867903,-1.659966,GRAND'LANDES,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315162,Influenza - Avian,;H5N1 HPAI;,46.734912,-1.079184,SAINT-VINCENT-STERLANGES,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315187,Influenza - Avian,;H5N1 HPAI;,46.929586,-1.462678,oldvine,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315728,Influenza - Avian,;H5N1 HPAI;,46.761622,-1.323151,LA MERLATIERE,France,Europe,2022-02-27 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315685,Influenza - Avian,;H5N1 HPAI;,47.240531,-1.072526,montrevault-sur-evre,France,Europe,2022-02-27 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315175,Influenza - Avian,;H5N1 HPAI;,46.788834,-1.0168,rochetrejoux,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315198,Influenza - Avian,;H5N1 HPAI;,46.687409,-0.577268,chapelle-saint-etienne,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315183,Influenza - Avian,;H5N1 HPAI;,46.872444,-1.318491,brouzils,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315726,Influenza - Avian,;H5N1 HPAI;,46.890187,-1.177468,SAINT-FULGENT,France,Europe,2022-02-27 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315180,Influenza - Avian,;H5N1 HPAI;,43.313455,0.444299,GUIZERIX,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315186,Influenza - Avian,;H5N1 HPAI;,46.912389,-1.624067,LEGE,France,Europe,2022-02-27 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315790,Influenza - Avian,;H5N1 HPAI;,46.77042,-1.025434,mouchamps,France,Europe,2022-02-28 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315189,Influenza - Avian,;H5N1 HPAI;,46.878782,-1.464255, lucs-sur-boulogne,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315792,Influenza - Avian,;H5N1 HPAI;,46.698849,-0.885322,tallud-sainte-gemme,France,Europe,2022-02-28 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315143,Influenza - Avian,;H5N1 HPAI;,47.498337,-0.955331,louroux-beconnais,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315196,Influenza - Avian,;H5N1 HPAI;,46.839515,-1.063195,HERBIERS,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315191,Influenza - Avian,;H5N1 HPAI;,46.868984,-1.605414,saint-etienne-du-bois,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315193,Influenza - Avian,;H5N1 HPAI;,46.867534,-1.687784,FALLERON,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315727,Influenza - Avian,;H5N1 HPAI;,46.783535,-1.168773,o,France,Europe,2022-02-28 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315192,Influenza - Avian,;H5N1 HPAI;,46.893195,-1.660442,touvois,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315190,Influenza - Avian,;H5N1 HPAI;,46.77733,-1.317568,MERLATIERE,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315197,Influenza - Avian,;H5N1 HPAI;,46.782331,-1.122257,essarts en bocage,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315195,Influenza - Avian,;H5N1 HPAI;,46.880483,-1.548442,LEGE,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315194,Influenza - Avian,;H5N1 HPAI;,46.938704,-1.596935,LEGE,France,Europe,2022-02-28 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315169,Influenza - Avian,;H5N1 HPAI;,46.677344,-0.768835,cheffois,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315185,Influenza - Avian,;H5N1 HPAI;,46.134304,0.186099,LIMALONGES,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315179,Influenza - Avian,;H5N1 HPAI;,43.348908,0.479592,ponsan-soubiran,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315182,Influenza - Avian,;H5N1 HPAI;,43.335051,0.46399,GUIZERIX,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315164,Influenza - Avian,;H5N1 HPAI;,46.668198,-0.795556,cheffois,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315167,Influenza - Avian,;H5N1 HPAI;,46.782384,-0.875846,boupere,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318369,Influenza - Avian,;H5N1 HPAI;,46.910464,-1.783496,GARNACHE,France,Europe,2022-03-01 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315144,Influenza - Avian,;H5N1 HPAI;,46.711475,-1.181152,saint-martin-des-noyers,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315181,Influenza - Avian,;H5N1 HPAI;,43.373739,-1.038721,GABAT,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315172,Influenza - Avian,;H5N1 HPAI;,46.892707,-1.578421,LEGE,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315153,Influenza - Avian,;H5N1 HPAI;,46.884622,-1.486741,lucs-sur-boulogne,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315788,Influenza - Avian,;H5N1 HPAI;,47.014678,-1.480457,saint-philbert-de-bouaine,France,Europe,2022-03-01 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315686,Influenza - Avian,;H5N1 HPAI;,46.99744,-1.379497,oldvine,France,Europe,2022-03-01 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315715,Influenza - Avian,;H5N1 HPAI;,46.965941,-1.387856,oldvine,France,Europe,2022-03-01 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315776,Influenza - Avian,;H5N1 HPAI;,46.832983,-1.373742,saint denis la chevasse,France,Europe,2022-03-01 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315165,Influenza - Avian,;H5N1 HPAI;,46.97593,-1.410014,oldvine,France,Europe,2022-03-01 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315155,Influenza - Avian,;H5N1 HPAI;,46.853468,-0.943422,saint-mars-la-reorthe,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315147,Influenza - Avian,;H5N1 HPAI;,46.713716,-1.098892,saint-cecile,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315148,Influenza - Avian,;H5N1 HPAI;,46.716081,-1.160835,saint-martin-des-noyers,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315150,Influenza - Avian,;H5N1 HPAI;,46.842195,-1.173385,saint-andre-goule-d'oie,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315775,Influenza - Avian,;H5N1 HPAI;,46.718463,-1.107874,ii,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315791,Influenza - Avian,;H5N1 HPAI;,46.695641,-0.917973, TALLUD-SAINTE-GEMME,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315140,Influenza - Avian,;H5N1 HPAI;,46.792835,-1.01699,mouchamps,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315779,Influenza - Avian,;H5N1 HPAI;,46.842586,-0.926959,SEVREMONT,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315141,Influenza - Avian,;H5N1 HPAI;,46.965956,-1.388215,oldvine,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315687,Influenza - Avian,;H5N1 HPAI;,46.935553,-1.82292,paulx,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315152,Influenza - Avian,;H5N1 HPAI;,46.980409,-1.713739,MARNE,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315142,Influenza - Avian,;H5N1 HPAI;,46.79683,-0.872448,SEVREMONT,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315149,Influenza - Avian,;H5N1 HPAI;,46.850767,-1.098235,MESNARD-LA-BAROTIERE,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315154,Influenza - Avian,;H5N1 HPAI;,46.842947,-1.392024,saint-denis-la-chevasse,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315708,Influenza - Avian,;H5N1 HPAI;,46.61494,-0.863298,THOUARSAIS-BOUILDROUX,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315773,Influenza - Avian,;H5N1 HPAI;,46.775435,-1.171522,gg,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315146,Influenza - Avian,;H5N1 HPAI;,43.41934,0.44949,SAINT-ELIX-THEUX,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315145,Influenza - Avian,;H5N1 HPAI;,43.397348,0.475945,VIOZAN,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315731,Influenza - Avian,;H5N1 HPAI;,46.809414,-1.132949,p,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315772,Influenza - Avian,;H5N1 HPAI;,46.806955,-1.223231,ff,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315789,Influenza - Avian,;H5N1 HPAI;,46.897925,-1.248706,chavagnes-en-paillers,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315151,Influenza - Avian,;H5N1 HPAI;,46.872364,-1.230722,saint-andre-goule-d'oie,France,Europe,2022-03-02 00:00:00+00:00,2022-03-07 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315787,Influenza - Avian,;H5N1 HPAI;,46.840791,-1.782216,CHALLANS,France,Europe,2022-03-02 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315786,Influenza - Avian,;H5N1 HPAI;,46.82398,-1.149236,vendrennes,France,Europe,2022-03-03 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324619,Influenza - Avian,;H5N1 HPAI;,46.809664,-1.132502,ESSARTS EN BOCAGE,France,Europe,2022-03-03 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315793,Influenza - Avian,;H5N1 HPAI;,46.783984,-0.943154,boupere,France,Europe,2022-03-03 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315682,Influenza - Avian,;H5N1 HPAI;,46.642988,-0.565615,ABSIE,France,Europe,2022-03-03 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324625,Influenza - Avian,;H5N1 HPAI;,47.256088,-1.192521,OREE D'ANJOU,France,Europe,2022-03-03 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315683,Influenza - Avian,;H5N1 HPAI;,47.041079,-0.410102,GENNETON,France,Europe,2022-03-03 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315721,Influenza - Avian,;H5N1 HPAI;,46.534359,-0.394878,gooseberries,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315783,Influenza - Avian,;H5N1 HPAI;,46.921054,-1.112415,oo,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315698,Influenza - Avian,;H5N1 HPAI;,46.669154,-1.12667,saint-hilaire-le-vouhis,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315716,Influenza - Avian,;H5N1 HPAI;,46.872371,-1.100337,LES HERBIERS,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315702,Influenza - Avian,;H5N1 HPAI;,43.512402,0.301733,BARS,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315718,Influenza - Avian,;H5N1 HPAI;,46.910085,-1.156571,bazoges en paillers,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324627,Influenza - Avian,;H5N1 HPAI;,46.922641,-1.65554,TOUVOIS,France,Europe,2022-03-04 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315719,Influenza - Avian,;H5N1 HPAI;,46.837009,-1.31627,CHAUCHE,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321139,Influenza - Avian,;H5N1 HPAI;,46.891058,-1.327426,BROUZILS,France,Europe,2022-03-04 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315749,Influenza - Avian,;H5N1 HPAI;,46.772197,-1.094257,w,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315785,Influenza - Avian,;H5N1 HPAI;,46.773073,-1.01947,pp,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315778,Influenza - Avian,;H5N1 HPAI;,46.811126,-0.970755,boupere,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315707,Influenza - Avian,;H5N1 HPAI;,46.764587,-1.352046,l,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315780,Influenza - Avian,;H5N1 HPAI;,46.889039,-1.350279,ll,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315782,Influenza - Avian,;H5N1 HPAI;,46.786472,-1.024825,nn,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315781,Influenza - Avian,;H5N1 HPAI;,46.899697,-1.902996,mm,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315717,Influenza - Avian,;H5N1 HPAI;,46.749458,-1.187774,saint-martin-des-noyers,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315771,Influenza - Avian,;H5N1 HPAI;,46.907729,-1.243801,ee,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315722,Influenza - Avian,;H5N1 HPAI;,46.822121,-1.267496,CHAUCHE,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315747,Influenza - Avian,;H5N1 HPAI;,46.801339,-0.915576,u,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315777,Influenza - Avian,;H5N1 HPAI;,46.779612,-1.149577,essarts en bocage,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315770,Influenza - Avian,;H5N1 HPAI;,46.738868,-0.949912,MONSIREIGNE,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315720,Influenza - Avian,;H5N1 HPAI;,46.88918,-1.145501,SAINT-FULGENT,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324638,Influenza - Avian,;H5N1 HPAI;,46.59791,-1.374537,RIVES DE L'YON,France,Europe,2022-03-04 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315693,Influenza - Avian,;H5N1 HPAI;,46.980932,-1.741307,e,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315681,Influenza - Avian,;H5N1 HPAI;,46.899628,-1.262256,chavagnes-en-paillers,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315820,Influenza - Avian,;H5N1 HPAI;,46.877263,-0.978086,HERBIERS,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324624,Influenza - Avian,;H5N1 HPAI;,47.096912,-1.952096,PORNIC,France,Europe,2022-03-04 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315709,Influenza - Avian,;H5N1 HPAI;,47.255009,-1.148255,m,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315679,Influenza - Avian,;H5N1 HPAI;,46.883666,-1.101091,beaurepaire,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315691,Influenza - Avian,;H5N1 HPAI;,47.033766,-1.433631,PLANCHE,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315819,Influenza - Avian,;H5N1 HPAI;,46.967152,-1.352365,BOUFFERE,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315800,Influenza - Avian,;H5N1 HPAI;,47.096946,-1.952194,PORNIC,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315694,Influenza - Avian,;H5N1 HPAI;,46.950689,-1.802385,f,France,Europe,2022-03-04 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315759,Influenza - Avian,;H5N1 HPAI;,46.886936,-1.454536,MONTREVERD,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315734,Influenza - Avian,;H5N1 HPAI;,46.985844,-1.246635,guyonniere,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315765,Influenza - Avian,;H5N1 HPAI;,46.870898,-1.112404,MESNARD LA BAROTIERE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315798,Influenza - Avian,;H5N1 HPAI;,47.048154,-1.301043,tt,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315816,Influenza - Avian,;H5N1 HPAI;,46.88495,-1.131235,SAINT-FULGENT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315767,Influenza - Avian,;H5N1 HPAI;,46.791301,-1.258891,essarts en bocage,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315799,Influenza - Avian,;H5N1 HPAI;,47.010554,-1.748808,uu,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315743,Influenza - Avian,;H5N1 HPAI;,46.71365,-0.882441,chavagnes-les-redoux,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315688,Influenza - Avian,;H5N1 HPAI;,46.687765,-0.833613,mouilleron-saint-germain,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315774,Influenza - Avian,;H5N1 HPAI;,46.709173,-1.122602,hh,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315809,Influenza - Avian,;H5N1 HPAI;,47.236664,-1.138496,ccc,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315692,Influenza - Avian,;H5N1 HPAI;,46.927891,-1.805707,GARNACHE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315797,Influenza - Avian,;H5N1 HPAI;,46.92483,-1.729334,ss,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Common Quail:Coturnix coturnix(Phasianidae),",WOAH (former OIE),,,Confirmed
+315690,Influenza - Avian,;H5N1 HPAI;,46.96029,-1.575239,d,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315725,Influenza - Avian,;H5N1 HPAI;,46.905733,-1.20401,chavagnes-en-paillers,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315738,Influenza - Avian,;H5N1 HPAI;,46.710877,-1.298859,FERRIERE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315746,Influenza - Avian,;H5N1 HPAI;,46.711621,-0.904435,chavagnes-les-redoux,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315724,Influenza - Avian,;H5N1 HPAI;,46.842879,-0.88899,SEVREMONT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315814,Influenza - Avian,;H5N1 HPAI;,46.883785,-1.199481,eee,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315711,Influenza - Avian,;H5N1 HPAI;,46.930522,-1.148314,bazoges en paillers,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315739,Influenza - Avian,;H5N1 HPAI;,46.693012,-0.880043,tallud-sainte-gemme,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315751,Influenza - Avian,;H5N1 HPAI;,46.958141,-1.23489,guyonniere,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315706,Influenza - Avian,;H5N1 HPAI;,46.538681,-0.403565,k,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315710,Influenza - Avian,;H5N1 HPAI;,47.240117,-1.137929,n,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315784,Influenza - Avian,;H5N1 HPAI;,46.738895,-1.23521,saint martin des noyers,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315712,Influenza - Avian,;H5N1 HPAI;,46.822771,-0.934179,SEVREMONT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315748,Influenza - Avian,;H5N1 HPAI;,46.804515,-1.120281,v,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315689,Influenza - Avian,;H5N1 HPAI;,47.25897,-1.20239,c,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315753,Influenza - Avian,;H5N1 HPAI;,46.805674,-0.873865,SEVREMONT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315733,Influenza - Avian,;H5N1 HPAI;,46.900268,-1.458775,MONTREVERD,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315750,Influenza - Avian,;H5N1 HPAI;,46.723546,-1.234028,saint martin des noyers,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315695,Influenza - Avian,;H5N1 HPAI;,46.863276,-1.764345,coldfond,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315701,Influenza - Avian,;H5N1 HPAI;,46.74434,-1.508603,POIRE SUR VIE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315818,Influenza - Avian,;H5N1 HPAI;,46.823819,-0.912634,SEVREMONT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315755,Influenza - Avian,;H5N1 HPAI;,46.859154,-1.148512,SAINT-FULGENT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315730,Influenza - Avian,;H5N1 HPAI;,46.88942,-1.869045,GARNACHE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315757,Influenza - Avian,;H5N1 HPAI;,46.910439,-1.440351,MONTREVERD,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315815,Influenza - Avian,;H5N1 HPAI;,46.845494,-1.342132,COPECHAGNIERE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315761,Influenza - Avian,;H5N1 HPAI;,46.913126,-1.981297,saint-gervais,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315740,Influenza - Avian,;H5N1 HPAI;,46.851884,-0.948739,saint-mars-la-reorthe,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315735,Influenza - Avian,;H5N1 HPAI;,46.796145,-0.94986,the balloon,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315705,Influenza - Avian,;H5N1 HPAI;,46.892838,-1.163375,SAINT FULGENT,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315732,Influenza - Avian,;H5N1 HPAI;,46.635592,-0.965842,jaudonniere,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315723,Influenza - Avian,;H5N1 HPAI;,46.574966,-1.301554,chateau-guibert,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315729,Influenza - Avian,;H5N1 HPAI;,46.833539,-1.112102,vendrennes,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315817,Influenza - Avian,;H5N1 HPAI;,46.947315,-1.24382,fff,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315736,Influenza - Avian,;H5N1 HPAI;,46.815271,-1.244444,CHAUCHE,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315763,Influenza - Avian,;H5N1 HPAI;,46.848275,-1.753168,coldfond,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315714,Influenza - Avian,;H5N1 HPAI;,46.646931,-0.783352,saint-maurice-le-girard,France,Europe,2022-03-05 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315699,Influenza - Avian,;H5N1 HPAI;,46.892426,-1.285582,j,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315697,Influenza - Avian,;H5N1 HPAI;,46.908903,-1.458585,MONTREVERD,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Goose,",WOAH (former OIE),,,Confirmed
+315744,Influenza - Avian,;H5N1 HPAI;,46.722147,-0.843565,t,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318438,Influenza - Avian,;H5N1 HPAI;,46.858663,-0.962331,HERBIERS,France,Europe,2022-03-06 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315700,Influenza - Avian,;H5N1 HPAI;,46.870711,-1.423829,saint denis la chevasse,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315696,Influenza - Avian,;H5N1 HPAI;,46.904717,-1.325267,g,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318437,Influenza - Avian,;H5N1 HPAI;,46.681188,-0.776026,B,France,Europe,2022-03-06 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315745,Influenza - Avian,;H5N1 HPAI;,46.861468,-0.951915,HERBIERS,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318436,Influenza - Avian,;H5N1 HPAI;,46.894076,-1.126307,BEAUREPAIRE,France,Europe,2022-03-06 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315680,Influenza - Avian,;H5N1 HPAI;,46.756754,-1.06898,b,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315678,Influenza - Avian,;H5N1 HPAI;,46.765026,-1.459603,a,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315703,Influenza - Avian,;H5N1 HPAI;,43.516186,0.314199,BARS,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315704,Influenza - Avian,;H5N1 HPAI;,43.518515,0.30303,BARS,France,Europe,2022-03-06 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315742,Influenza - Avian,;H5N1 HPAI;,46.563134,-1.196849,s,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315810,Influenza - Avian,;H5N1 HPAI;,46.831048,-0.825083,SEVREMONT,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315737,Influenza - Avian,;H5N1 HPAI;,46.962724,-1.768026,q,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315741,Influenza - Avian,;H5N1 HPAI;,46.655553,-0.869399,r,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315768,Influenza - Avian,;H5N1 HPAI;,46.659726,-0.84453,dd,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315813,Influenza - Avian,;H5N1 HPAI;,46.882975,-1.651488,ddd,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315794,Influenza - Avian,;H5N1 HPAI;,46.906481,-1.57542,LEGE,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315812,Influenza - Avian,;H5N1 HPAI;,46.997881,-1.690334,MARNE,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Common Quail:Coturnix coturnix(Phasianidae),",WOAH (former OIE),,,Confirmed
+318435,Influenza - Avian,;H5N1 HPAI;,46.756736,-1.068574,A,France,Europe,2022-03-07 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315811,Influenza - Avian,;H5N1 HPAI;,47.097036,-1.952308,PORNIC,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315795,Influenza - Avian,;H5N1 HPAI;,46.953546,-1.634712,qq,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315769,Influenza - Avian,;H5N1 HPAI;,46.575578,-1.734303,SAINT-MATHURIN,France,Europe,2022-03-07 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315805,Influenza - Avian,;H5N1 HPAI;,47.072953,-1.046495,zz,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315766,Influenza - Avian,;H5N1 HPAI;,46.805264,-0.885737,SEVREMONT,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315754,Influenza - Avian,;H5N1 HPAI;,46.807163,-1.729267,aa,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315801,Influenza - Avian,;H5N1 HPAI;,46.880864,-1.898333,SALLERTAINE,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315821,Influenza - Avian,;H5N1 HPAI;,46.410283,-0.591219,SAINT-POMPAIN,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315756,Influenza - Avian,;H5N1 HPAI;,46.868703,-1.370464,SEVREMONT,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315758,Influenza - Avian,;H5N1 HPAI;,46.845279,-0.874656,SEVREMONT,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315803,Influenza - Avian,;H5N1 HPAI;,46.860122,-1.88226,CHALLANS,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315804,Influenza - Avian,;H5N1 HPAI;,47.157002,-1.003174,ww,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315752,Influenza - Avian,;H5N1 HPAI;,46.950003,-1.837926,z,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318431,Influenza - Avian,;H5N1 HPAI;,46.874219,-0.964545,HERBIERS,France,Europe,2022-03-08 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315802,Influenza - Avian,;H5N1 HPAI;,46.861654,-1.715674,FALLERON,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315808,Influenza - Avian,;H5N1 HPAI;,47.135287,-1.002967,bbb,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315762,Influenza - Avian,;H5N1 HPAI;,46.917182,-1.150985,cc,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315764,Influenza - Avian,;H5N1 HPAI;,46.759373,-0.866778,POUZAUGES,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315796,Influenza - Avian,;H5N1 HPAI;,46.933001,-1.78716,rr,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+315760,Influenza - Avian,;H5N1 HPAI;,46.799249,-1.02942,bb,France,Europe,2022-03-08 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324629,Influenza - Avian,;H5N1 HPAI;,46.855882,-1.066163,HERBIERS,France,Europe,2022-03-09 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+321142,Influenza - Avian,;H5N1 HPAI;,46.69794,-1.133876,SAINT HILAIRE LE VOUHIS,France,Europe,2022-03-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+315807,Influenza - Avian,;H5N1 HPAI;,47.134519,-1.011728,aaa,France,Europe,2022-03-09 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318430,Influenza - Avian,;H5N1 HPAI;,46.8335,-0.94662,SAINT-PAUL-EN-PAREDS,France,Europe,2022-03-09 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+315806,Influenza - Avian,;H5N1 HPAI;,47.068978,-1.017621,ROMAGNE,France,Europe,2022-03-09 00:00:00+00:00,2022-03-14 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321140,Influenza - Avian,;H5N1 HPAI;,46.880024,-0.923244,EPESSES,France,Europe,2022-03-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321141,Influenza - Avian,;H5N1 HPAI;,46.879892,-1.162345,SAINT-FULGENT,France,Europe,2022-03-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318429,Influenza - Avian,;H5N1 HPAI;,46.65756,-0.926684,BAZOGES-EN-PAREDS,France,Europe,2022-03-10 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318428,Influenza - Avian,;H5N1 HPAI;,46.613502,-1.114308,BOURNEZEAU,France,Europe,2022-03-12 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324626,Influenza - Avian,;H5N1 HPAI;,46.578573,-0.811957,CEZAIS,France,Europe,2022-03-12 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+326149,Influenza - Avian,;H5N1 HPAI;,47.041,-1.703,saint-lumine-de-coutais,France,Europe,2022-03-12 00:00:00+00:00,2022-07-05 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321772,Influenza - Avian,;H5N1 HPAI;,46.793908,-0.733009,SAINT-MESMIN,France,Europe,2022-03-13 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324628,Influenza - Avian,;H5N1 HPAI;,46.931491,-1.172449,BOISSIERE-DE-MONTAIGU,France,Europe,2022-03-14 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318433,Influenza - Avian,;H5N1 HPAI;,46.866071,-0.92069,SAINT-MARS-LA-REORTHE,France,Europe,2022-03-14 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+318434,Influenza - Avian,;H5N1 HPAI;,46.57459,-1.133051,MOUTIERS-SUR-LE-LAY,France,Europe,2022-03-14 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321143,Influenza - Avian,;H5N1 HPAI;,46.837564,-0.816781,SEVREMONT,France,Europe,2022-03-15 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318444,Influenza - Avian,;H5N1 HPAI;,46.914773,-1.885467,BOIS DE CENE,France,Europe,2022-03-15 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+326150,Influenza - Avian,;H5N1 HPAI;,47.48,-1.257,PANNECE,France,Europe,2022-03-15 00:00:00+00:00,2022-07-05 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318432,Influenza - Avian,;H5N1 HPAI;,46.834628,-1.18562,SAINT-ANDRE-GOULE-D'OIE,France,Europe,2022-03-15 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Common Quail:Coturnix coturnix(Phasianidae),",WOAH (former OIE),,,Confirmed
+321111,Influenza - Avian,;H5N1 HPAI;,47.214292,-0.954682,iii,France,Europe,2022-03-16 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318394,Influenza - Avian,;H5N1 HPAI;,47.262907,-0.93066,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-16 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321114,Influenza - Avian,;H5N1 HPAI;,47.029382,-1.086946,mmm,France,Europe,2022-03-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318443,Influenza - Avian,;H5N1 HPAI;,46.647534,-0.781876,SAINT-MAURICE-LE-GIRARD,France,Europe,2022-03-19 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+321115,Influenza - Avian,;H5N1 HPAI;,47.319867,-1.066818,nnn,France,Europe,2022-03-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324617,Influenza - Avian,;H5N1 HPAI;,47.055608,-1.391356,REMOUILLE,France,Europe,2022-03-19 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321110,Influenza - Avian,;H5N1 HPAI;,47.125401,-0.797827,hhh,France,Europe,2022-03-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+326151,Influenza - Avian,;H5N1 HPAI;,47.503416,-1.455425,joue-sur-erdre,France,Europe,2022-03-19 00:00:00+00:00,2022-07-05 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321116,Influenza - Avian,;H5N1 HPAI;,47.216437,-0.909292,ooo,France,Europe,2022-03-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318393,Influenza - Avian,;H5N1 HPAI;,47.258577,-0.847,CHEMILLE-EN-ANJOU,France,Europe,2022-03-19 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318376,Influenza - Avian,;H5N1 HPAI;,47.171699,-0.826762,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-19 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321117,Influenza - Avian,;H5N1 HPAI;,47.210742,-0.924102,ppp,France,Europe,2022-03-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321113,Influenza - Avian,;H5N1 HPAI;,47.054074,-1.045966,lll,France,Europe,2022-03-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318384,Influenza - Avian,;H5N1 HPAI;,47.189077,-1.108554,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-21 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318402,Influenza - Avian,;H5N1 HPAI;,47.110919,-0.944023,BEGROLLES-EN-MAUGES,France,Europe,2022-03-21 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321131,Influenza - Avian,;H5N1 HPAI;,47.350024,-1.086345,MAUGES-SUR-LOIRE,France,Europe,2022-03-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318442,Influenza - Avian,;H5N1 HPAI;,47.089141,-1.083068,SEVREMOINE,France,Europe,2022-03-21 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321144,Influenza - Avian,;H5N1 HPAI;,46.786309,-1.607667,CHAPELLE-PALLUAU,France,Europe,2022-03-22 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321130,Influenza - Avian,;H5N1 HPAI;,47.209874,-0.926207,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-22 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321132,Influenza - Avian,;H5N1 HPAI;,47.331772,-1.202337,OREE D'ANJOU,France,Europe,2022-03-22 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318445,Influenza - Avian,;H5N1 HPAI;,47.156141,-0.880594,MAY-SUR-EVRE,France,Europe,2022-03-22 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324616,Influenza - Avian,;H5N1 HPAI;,47.20204,-0.887121,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-22 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318382,Influenza - Avian,;H5N1 HPAI;,47.208133,-0.962604,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-22 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+318417,Influenza - Avian,;H5N1 HPAI;,46.665241,-1.032041,CHANTONNAY,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321128,Influenza - Avian,;H5N1 HPAI;,47.208605,-0.915739,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318415,Influenza - Avian,;H5N1 HPAI;,46.745931,-0.205705,GOURGE,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+321133,Influenza - Avian,;H5N1 HPAI;,47.102602,-0.820992,TREMENTINES,France,Europe,2022-03-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318419,Influenza - Avian,;H5N1 HPAI;,46.846967,-1.285878,CHAUCHE,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318405,Influenza - Avian,;H5N1 HPAI;,43.695359,0.111326,AIGNAN,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321129,Influenza - Avian,;H5N1 HPAI;,47.10453,-0.951068,SEGUINIERE,France,Europe,2022-03-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321035,Influenza - Avian,;H5N1 HPAI;,47.311618,-1.249349,OREE D'ANJOU,France,Europe,2022-03-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318416,Influenza - Avian,;H5N1 HPAI;,46.771422,-0.877535,BOUPERE,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321127,Influenza - Avian,;H5N1 HPAI;,47.248896,-0.987344,MONTREVAULT-SUR-EVRE,France,Europe,2022-03-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318352,Influenza - Avian,;H5N1 HPAI;,46.772679,-0.550832,COURLAY,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318441,Influenza - Avian,;H5N1 HPAI;,47.211098,-0.878069,C,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318440,Influenza - Avian,;H5N1 HPAI;,47.05882,-0.716224,YZERNAY,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318439,Influenza - Avian,;H5N1 HPAI;,46.656944,-1.258581,FOUGERE,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318418,Influenza - Avian,;H5N1 HPAI;,46.984893,-1.168873,BRUFFIERE,France,Europe,2022-03-23 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318353,Influenza - Avian,;H5N1 HPAI;,47.305085,-1.772864,saint-etienne-de-montluc,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318383,Influenza - Avian,;H5N1 HPAI;,46.969312,-1.608067,CORCOUE-SUR-LOGNE,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321018,Influenza - Avian,;H5N1 HPAI;,47.514509,1.493254,COUR-CHEVERNY,France,Europe,2022-03-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318423,Influenza - Avian,;H5N1 HPAI;,46.913027,-1.185475,CHAVAGNES-EN-PAILLERS,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324618,Influenza - Avian,;H5N1 HPAI;,47.007384,-0.695785,YZERNAY,France,Europe,2022-03-24 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318421,Influenza - Avian,;H5N1 HPAI;,47.053354,-1.453641,MONTBERT,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321037,Influenza - Avian,;H5N1 HPAI;,47.22069,-0.908769,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318426,Influenza - Avian,;H5N1 HPAI;,47.030813,-1.676012,SAINT-PHILBERT-DE-GRAND-LIEU,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318420,Influenza - Avian,;H5N1 HPAI;,46.977375,-1.23065,GUYONNIERE,France,Europe,2022-03-24 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+321036,Influenza - Avian,;H5N1 HPAI;,47.184011,-0.959211,ee,France,Europe,2022-03-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318422,Influenza - Avian,;H5N1 HPAI;,44.667213,1.88404,ASSIER,France,Europe,2022-03-25 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318427,Influenza - Avian,;H5N1 HPAI;,46.97113,-0.696782,MAULEON,France,Europe,2022-03-25 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318424,Influenza - Avian,;H5N1 HPAI;,46.757872,-0.555852,MONCOUTANT,France,Europe,2022-03-25 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318425,Influenza - Avian,;H5N1 HPAI;,46.535295,-1.0915,SAINTE HERMINE,France,Europe,2022-03-25 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318414,Influenza - Avian,;H5N1 HPAI;,46.974481,-0.700174,MAULEON,France,Europe,2022-03-25 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321039,Influenza - Avian,;H5N1 HPAI;,47.164995,-1.122459,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324621,Influenza - Avian,;H5N1 HPAI;,47.251236,-0.846664,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-26 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318381,Influenza - Avian,;H5N1 HPAI;,47.727377,-2.251666,PEILLAC,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318386,Influenza - Avian,;H5N1 HPAI;,46.946656,-1.107345,LANDES GENUSSON,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318388,Influenza - Avian,;H5N1 HPAI;,46.971169,-1.276649,GUYONNIERE,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+324620,Influenza - Avian,;H5N1 HPAI;,47.042171,-0.796432,MAULEVRIER,France,Europe,2022-03-26 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318390,Influenza - Avian,;H5N1 HPAI;,46.945344,-0.889797,SAINT LAURENT SUR SEVRE,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321038,Influenza - Avian,;H5N1 HPAI;,47.268248,-0.838674,CHEMILLE-EN-ANJOU,France,Europe,2022-03-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318373,Influenza - Avian,;H5N1 HPAI;,46.575108,-1.037165,SAINTE HERMINE,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318377,Influenza - Avian,;H5N1 HPAI;,47.145841,-0.993095,SEVREMOINE,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321040,Influenza - Avian,;H5N1 HPAI;,47.280232,-0.798938,CHEMILLE-EN-ANJOU,France,Europe,2022-03-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318391,Influenza - Avian,;H5N1 HPAI;,46.941315,-0.946821,VERRIE,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318371,Influenza - Avian,;H5N1 HPAI;,46.828602,-0.840128,SEVREMONT,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318389,Influenza - Avian,;H5N1 HPAI;,46.73647,-1.152602,SAINT-MARTIN-DES-NOYERS,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318380,Influenza - Avian,;H5N1 HPAI;,47.834967,-1.768676,GUIPRY MESSAC,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318375,Influenza - Avian,;H5N1 HPAI;,46.954589,-0.843249,MAULEON,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318413,Influenza - Avian,;H5N1 HPAI;,46.956811,-0.84767,MAULEON,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318385,Influenza - Avian,;H5N1 HPAI;,46.926184,-0.974555,CHAMBRETAUD,France,Europe,2022-03-26 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318370,Influenza - Avian,;H5N1 HPAI;,47.169992,-1.075623,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-27 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321031,Influenza - Avian,;H5N1 HPAI;,47.276377,-1.071684,MONTREVAULT-SUR-EVRE,France,Europe,2022-03-27 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318387,Influenza - Avian,;H5N1 HPAI;,46.640938,-1.135572,BOURNEZEAU,France,Europe,2022-03-27 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321032,Influenza - Avian,;H5N1 HPAI;,47.305709,-0.68857,VAL-DU-LAYON,France,Europe,2022-03-27 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318404,Influenza - Avian,;H5N1 HPAI;,44.98674,1.520264,GIGNAC,France,Europe,2022-03-27 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318403,Influenza - Avian,;H5N1 HPAI;,47.242413,-0.863365,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-27 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318379,Influenza - Avian,;H5N1 HPAI;,47.279075,-0.865574,MONTREVAULT-SUR-EVRE,France,Europe,2022-03-27 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318395,Influenza - Avian,;H5N1 HPAI;,47.129244,-1.046838,SEVREMOINE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318378,Influenza - Avian,;H5N1 HPAI;,47.108676,-1.007695,SEVREMOINE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324635,Influenza - Avian,;H5N1 HPAI;,47.130451,-1.217452,SEVREMOINE,France,Europe,2022-03-28 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324634,Influenza - Avian,;H5N1 HPAI;,47.246703,-0.912423,a,France,Europe,2022-03-28 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+324633,Influenza - Avian,;H5N1 HPAI;,47.43952,-0.769587,SAINT-AUGUSTIN-DES-BOIS,France,Europe,2022-03-28 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324631,Influenza - Avian,;H5N1 HPAI;,47.180326,-1.003752,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318410,Influenza - Avian,;H5N1 HPAI;,47.414089,-1.125205,VAIR SUR LOIRE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318392,Influenza - Avian,;H5N1 HPAI;,47.196815,-0.95738,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318399,Influenza - Avian,;H5N1 HPAI;,47.108991,-0.953726,SEGUINIERE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324630,Influenza - Avian,;H5N1 HPAI;,47.207811,-0.968289,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318400,Influenza - Avian,;H5N1 HPAI;,47.238829,-0.760907,CHEMILLE-EN-ANJOU,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+318398,Influenza - Avian,;H5N1 HPAI;,47.263823,-0.870116,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318408,Influenza - Avian,;H5N1 HPAI;,46.748175,-1.031562,SAINT-GERMAIN-DE-PRINCAY,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+318397,Influenza - Avian,;H5N1 HPAI;,47.018654,-0.796661,MAULEVRIER,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318401,Influenza - Avian,;H5N1 HPAI;,47.196677,-0.957597,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318406,Influenza - Avian,;H5N1 HPAI;,46.909969,-1.064329,BEAUREPAIRE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321033,Influenza - Avian,;H5N1 HPAI;,47.192643,-1.013647,BEAUPREAU-EN-MAUGES,France,Europe,2022-03-28 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318396,Influenza - Avian,;H5N1 HPAI;,47.281077,-0.84236,CHEMILLE-EN-ANJOU,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+318409,Influenza - Avian,;H5N1 HPAI;,46.58479,-0.837303,THOUARSAIS BOUILDROUX,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318411,Influenza - Avian,;H5N1 HPAI;,47.085728,-1.624403,CHEVROLIERE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318407,Influenza - Avian,;H5N1 HPAI;,47.578703,-1.54038,NOZAY,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+322832,Influenza - Avian,;H5N1 HPAI;,47.213848,-1.748748,COUERON,France,Europe,2022-03-28 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+318412,Influenza - Avian,;H5N1 HPAI;,47.068728,-1.583555,CHEVROLIERE,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+318372,Influenza - Avian,;H5N1 HPAI;,46.568177,-1.657134,MOTHE-ACHARD,France,Europe,2022-03-28 00:00:00+00:00,2022-04-04 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324632,Influenza - Avian,;H5N1 HPAI;,47.038621,-0.803297,MAULEVRIER,France,Europe,2022-03-29 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321120,Influenza - Avian,;H5N1 HPAI;,47.303039,-0.752218,chemille-en-anjou,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324592,Influenza - Avian,;H5N1 HPAI;,46.408,-0.766,SAINT-PIERRE-LE-VIEUX,France,Europe,2022-03-29 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321079,Influenza - Avian,;H5N1 HPAI;,46.658358,-1.646469,BEAULIEU SOUS LA ROCHE,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321118,Influenza - Avian,;H5N1 HPAI;,47.301419,-0.842904,chemille-en-anjou,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321027,Influenza - Avian,;H5N1 HPAI;,47.129997,-0.819375,TREMENTINES,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321034,Influenza - Avian,;H5N1 HPAI;,47.059592,-0.772172,TOUTLEMONDE,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321028,Influenza - Avian,;H5N1 HPAI;,47.302148,-1.024075,MAUGES-SUR-LOIRE,France,Europe,2022-03-29 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324594,Influenza - Avian,;H5N1 HPAI;,47.404,-1.065,VAIR-SUR-LOIRE,France,Europe,2022-03-30 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324593,Influenza - Avian,;H5N1 HPAI;,47.266,-0.799,CHEMILLE-EN-ANJOU,France,Europe,2022-03-30 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321022,Influenza - Avian,;H5N1 HPAI;,47.112947,-0.932822,z,France,Europe,2022-03-30 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321029,Influenza - Avian,;H5N1 HPAI;,47.301595,-0.761726,CHEMILLE-EN-ANJOU,France,Europe,2022-03-30 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321121,Influenza - Avian,;H5N1 HPAI;,47.300105,-0.779312,rrr,France,Europe,2022-03-30 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321126,Influenza - Avian,;H5N1 HPAI;,47.319667,-0.782829,vvv,France,Europe,2022-03-31 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321026,Influenza - Avian,;H5N1 HPAI;,47.156192,-1.073024,dd,France,Europe,2022-03-31 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321124,Influenza - Avian,;H5N1 HPAI;,47.274971,-0.733653,ttt,France,Europe,2022-03-31 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321125,Influenza - Avian,;H5N1 HPAI;,47.215839,-0.872435,uuu,France,Europe,2022-03-31 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321119,Influenza - Avian,;H5N1 HPAI;,47.290744,-0.860388,qqq,France,Europe,2022-03-31 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324613,Influenza - Avian,;H5N1 HPAI;,46.828177,-0.838668,SEVREMONT,France,Europe,2022-04-02 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324595,Influenza - Avian,;H5N1 HPAI;,47.156,-1.125,BEAUPREAU-EN-MAUGES,France,Europe,2022-04-02 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324612,Influenza - Avian,;H5N1 HPAI;,46.948478,-1.114147,LANDES-GENUSSON,France,Europe,2022-04-02 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+324596,Influenza - Avian,;H5N1 HPAI;,47.278,-0.697,CHEMILLE-EN-ANJOU,France,Europe,2022-04-02 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Guinea fowl,",WOAH (former OIE),,,Confirmed
+324610,Influenza - Avian,;H5N1 HPAI;,46.98904,-0.909491,MORTAGNE-SUR-SEVRE,France,Europe,2022-04-02 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321101,Influenza - Avian,;H5N1 HPAI;,46.884413,-1.112814,bbb,France,Europe,2022-04-03 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324605,Influenza - Avian,;H5N1 HPAI;,47.438384,-1.100878,LOIREAUXENCE,France,Europe,2022-04-03 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321122,Influenza - Avian,;H5N1 HPAI;,46.996629,-0.813475,TESSOUALLE,France,Europe,2022-04-03 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324611,Influenza - Avian,;H5N1 HPAI;,47.304697,-0.83391,MAUGES-SUR-LOIRE,France,Europe,2022-04-04 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324609,Influenza - Avian,;H5N1 HPAI;,47.637715,-0.911723,CHAZE-SUR-ARGOS,France,Europe,2022-04-04 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324607,Influenza - Avian,;H5N1 HPAI;,47.240542,-0.414756,CHAVAGNES,France,Europe,2022-04-04 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Turkey,",WOAH (former OIE),,,Confirmed
+321030,Influenza - Avian,;H5N1 HPAI;,47.076817,-1.59175,CHEVROLIERE,France,Europe,2022-04-04 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324623,Influenza - Avian,;H5N1 HPAI;,47.271,-0.808,CHEMILLE-EN-ANJOU,France,Europe,2022-04-04 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321100,Influenza - Avian,;H5N1 HPAI;,47.447351,-0.841804,aaa,France,Europe,2022-04-04 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322835,Influenza - Avian,;H5N1 HPAI;,47.459478,-1.091118,LOIREAUXENCE,France,Europe,2022-04-04 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321123,Influenza - Avian,;H5N1 HPAI;,47.461623,-0.831447,sss,France,Europe,2022-04-04 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322836,Influenza - Avian,;H5N1 HPAI;,47.50937,-1.314432,RIAILLE,France,Europe,2022-04-04 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324606,Influenza - Avian,;H5N1 HPAI;,47.317477,-0.862209,MAUGES-SUR-LOIRE,France,Europe,2022-04-04 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324622,Influenza - Avian,;H5N1 HPAI;,47.254187,-0.811491,CHEMILLE-EN-ANJOU,France,Europe,2022-04-04 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+324608,Influenza - Avian,;H5N1 HPAI;,47.174972,-0.954037,BEAUPREAU-EN-MAUGES,France,Europe,2022-04-04 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+324597,Influenza - Avian,;H5N1 HPAI;,45.372,1.151,LANOUAILLE,France,Europe,2022-04-05 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+322841,Influenza - Avian,;H5N1 HPAI;,44.9415,1.650569,SAINT-DENIS-LES-MARTEL,France,Europe,2022-04-05 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+320993,Influenza - Avian,;H5N1 HPAI;,45.0699,1.346915,DORNAC,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320997,Influenza - Avian,;H5N1 HPAI;,46.741217,-0.693209,FORET-SUR-SEVRE,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320996,Influenza - Avian,;H5N1 HPAI;,46.850906,-0.649513,CIRIERES,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321778,Influenza - Avian,;H5N1 HPAI;,45.280634,1.263869,SEGONZAC,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320994,Influenza - Avian,;H5N1 HPAI;,45.002666,0.805814,f ,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321016,Influenza - Avian,;H5N1 HPAI;,44.809016,1.814455,MAYRINHAC-LENTOUR,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321015,Influenza - Avian,;H5N1 HPAI;,44.782729,1.828187,s,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321023,Influenza - Avian,;H5N1 HPAI;,47.228329,-0.780145,aa,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320992,Influenza - Avian,;H5N1 HPAI;,45.028378,1.889926,REYGADE,France,Europe,2022-04-06 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321014,Influenza - Avian,;H5N1 HPAI;,44.50219,1.874589,r,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321025,Influenza - Avian,;H5N1 HPAI;,47.150817,-0.827615,cc,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320999,Influenza - Avian,;H5N1 HPAI;,47.258037,-0.823603,h ,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321779,Influenza - Avian,;H5N1 HPAI;,44.801993,1.612451,ROCAMADOUR,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320995,Influenza - Avian,;H5N1 HPAI;,45.045448,0.806607,LACROPTE,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320998,Influenza - Avian,;H5N1 HPAI;,47.358327,-0.964828,g ,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321001,Influenza - Avian,;H5N1 HPAI;,47.115561,-1.148878,l,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321024,Influenza - Avian,;H5N1 HPAI;,47.175946,-0.809605,bb,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321004,Influenza - Avian,;H5N1 HPAI;,46.993729,-0.937565,o,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321777,Influenza - Avian,;H5N1 HPAI;,47.349996,1.705632,pruniers-en-sologne,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321000,Influenza - Avian,;H5N1 HPAI;,47.253464,-0.819492,i,France,Europe,2022-04-07 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321773,Influenza - Avian,;H5N1 HPAI;,48.18917,0.66755,CHERREAU,France,Europe,2022-04-08 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321013,Influenza - Avian,;H5N1 HPAI;,44.990581,1.329545,PAULIN,France,Europe,2022-04-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321002,Influenza - Avian,;H5N1 HPAI;,47.294505,-0.846926,m ,France,Europe,2022-04-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320990,Influenza - Avian,;H5N1 HPAI;,44.974296,1.296956,SAINT-GENIES,France,Europe,2022-04-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321017,Influenza - Avian,;H5N1 HPAI;,45.654747,0.845235,t,France,Europe,2022-04-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320989,Influenza - Avian,;H5N1 HPAI;,46.717615,-0.019855,THEZENAY,France,Europe,2022-04-09 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320985,Influenza - Avian,;H5N1 HPAI;,44.678099,1.499782,b,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321011,Influenza - Avian,;H5N1 HPAI;,44.980525,1.301519,SAINT-GENIES,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321010,Influenza - Avian,;H5N1 HPAI;,44.93324,0.649536,SAINT-FELIX-DE-VILLADEIX,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320991,Influenza - Avian,;H5N1 HPAI;,46.777878,-0.2583,e ,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321009,Influenza - Avian,;H5N1 HPAI;,44.934203,0.668614,SAINT-FELIX-DE-VILLADEIX,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320984,Influenza - Avian,;H5N1 HPAI;,45.000311,0.764422,veyrines-de-vergt,France,Europe,2022-04-10 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320986,Influenza - Avian,;H5N1 HPAI;,44.869627,1.589797,c,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321020,Influenza - Avian,;H5N1 HPAI;,47.571682,-0.949666,ANGRIE,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320988,Influenza - Avian,;H5N1 HPAI;,44.550719,0.631074,d,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321008,Influenza - Avian,;H5N1 HPAI;,46.521317,-0.719725,foussais-payre,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320983,Influenza - Avian,;H5N1 HPAI;,45.019013,1.358184,JAYAC,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320981,Influenza - Avian,;H5N1 HPAI;,44.751242,1.489882,a,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320987,Influenza - Avian,;H5N1 HPAI;,44.513177,0.656087,BEAUGAS,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322839,Influenza - Avian,;H5N1 HPAI;,46.593591,-1.613746,SAINTE-FLAIVE-DES-LOUPS,France,Europe,2022-04-11 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321012,Influenza - Avian,;H5N1 HPAI;,44.928486,0.952534,BUGUE,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321006,Influenza - Avian,;H5N1 HPAI;,46.739744,-0.796448,p ,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321003,Influenza - Avian,;H5N1 HPAI;,46.906795,-0.497053,n,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321019,Influenza - Avian,;H5N1 HPAI;,47.021483,-0.732512,u,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321021,Influenza - Avian,;H5N1 HPAI;,46.920803,-0.542215,v,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321005,Influenza - Avian,;H5N1 HPAI;,46.851684,-1.022122,HERBIERS,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321007,Influenza - Avian,;H5N1 HPAI;,46.504756,-1.042679,q ,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+320982,Influenza - Avian,;H5N1 HPAI;,44.89344,1.830614,PRUDHOMAT,France,Europe,2022-04-11 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321775,Influenza - Avian,;H5N1 HPAI;,49.496651,1.316947,CATENAY,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321050,Influenza - Avian,;H5N1 HPAI;,45.345552,1.148901,GENIS,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321093,Influenza - Avian,;H5N1 HPAI;,47.057132,-0.347333,CERSAY,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321092,Influenza - Avian,;H5N1 HPAI;,47.217921,-0.721654,vv,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321090,Influenza - Avian,;H5N1 HPAI;,44.826697,0.576729,uu,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321094,Influenza - Avian,;H5N1 HPAI;,46.838816,-0.601589,BRESSUIRE,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321091,Influenza - Avian,;H5N1 HPAI;,45.620504,0.867167,MIALET,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321089,Influenza - Avian,;H5N1 HPAI;,46.815269,-0.720388,SAINT-MESMIN ,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321051,Influenza - Avian,;H5N1 HPAI;,45.058816,1.357615,DORNAC,France,Europe,2022-04-12 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321054,Influenza - Avian,;H5N1 HPAI;,44.934594,0.645201,kk,France,Europe,2022-04-13 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321052,Influenza - Avian,;H5N1 HPAI;,44.953717,0.736655,ii,France,Europe,2022-04-13 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324599,Influenza - Avian,;H5N1 HPAI;,44.778,1.444,PAYRAC,France,Europe,2022-04-13 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321053,Influenza - Avian,;H5N1 HPAI;,44.949241,0.704515,jj,France,Europe,2022-04-13 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321774,Influenza - Avian,;H5N1 HPAI;,49.49766,1.31617,CATENAY,France,Europe,2022-04-13 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321041,Influenza - Avian,;H5N1 HPAI;,45.017339,1.158289,VALOJOULX,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321042,Influenza - Avian,;H5N1 HPAI;,44.958957,0.727402,ff,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321070,Influenza - Avian,;H5N1 HPAI;,44.492939,0.653897,PAILLOLES,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321048,Influenza - Avian,;H5N1 HPAI;,44.581463,0.601135,LOUGRATTE,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324600,Influenza - Avian,;H5N1 HPAI;,44.923,1.54,BALADOU,France,Europe,2022-04-14 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321049,Influenza - Avian,;H5N1 HPAI;,47.077094,-0.459752,CLERE-SUR-LAYON,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324598,Influenza - Avian,;H5N1 HPAI;,44.924,1.542,BALADOU,France,Europe,2022-04-14 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321055,Influenza - Avian,;H5N1 HPAI;,44.89741,1.557184,MAYRAC,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321087,Influenza - Avian,;H5N1 HPAI;,46.908807,-0.525489,ss,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321088,Influenza - Avian,;H5N1 HPAI;,46.908989,-0.529381,tt,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321776,Influenza - Avian,;H5N1 HPAI;,47.419825,1.438583,counter,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321073,Influenza - Avian,;H5N1 HPAI;,44.27151,2.964308,VEZINS-DE-LEVEZOU,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321043,Influenza - Avian,;H5N1 HPAI;,44.987277,0.652271,gg,France,Europe,2022-04-14 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321780,Influenza - Avian,;H5N1 HPAI;,45.446379,1.135614,ANGOISSE,France,Europe,2022-04-15 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+321045,Influenza - Avian,;H5N1 HPAI;,45.322547,0.942459,hh,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321066,Influenza - Avian,;H5N1 HPAI;,46.914747,-0.534002,pp,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321069,Influenza - Avian,;H5N1 HPAI;,47.173365,-0.52117,MONTILLIERS,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324601,Influenza - Avian,;H5N1 HPAI;,45.064989,0.821693,LACROPTE,France,Europe,2022-04-17 00:00:00+00:00,2022-06-13 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321060,Influenza - Avian,;H5N1 HPAI;,44.601493,0.55982,SERIGNAC-PEBOUDOU,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321044,Influenza - Avian,;H5N1 HPAI;,45.157869,1.165738,saint-rabier,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321067,Influenza - Avian,;H5N1 HPAI;,46.91043,-0.64989,qq,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321068,Influenza - Avian,;H5N1 HPAI;,47.076663,-1.610297,CHEVROLIERE,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321072,Influenza - Avian,;H5N1 HPAI;,45.54896,1.138858,CHALARD,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321047,Influenza - Avian,;H5N1 HPAI;,44.789741,1.923422,MOLIERES,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321074,Influenza - Avian,;H5N1 HPAI;,46.901204,-0.719136,MAULEON,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321046,Influenza - Avian,;H5N1 HPAI;,44.927495,1.583906,MARTEL,France,Europe,2022-04-17 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321059,Influenza - Avian,;H5N1 HPAI;,44.652668,0.480142,LAUZUN,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321064,Influenza - Avian,;H5N1 HPAI;,46.910901,-0.701332,MAULEON,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321063,Influenza - Avian,;H5N1 HPAI;,46.904565,-0.577284,nn,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321058,Influenza - Avian,;H5N1 HPAI;,44.507562,0.680857,CASTELNAUD-DE-GRATECAMBE,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321065,Influenza - Avian,;H5N1 HPAI;,46.961155,-0.621439,oo,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321071,Influenza - Avian,;H5N1 HPAI;,44.998741,0.715701,rr,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321056,Influenza - Avian,;H5N1 HPAI;,47.043572,-0.50948,ll,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321057,Influenza - Avian,;H5N1 HPAI;,44.621635,0.54287,SERIGNAC-PEBOUDOU,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321062,Influenza - Avian,;H5N1 HPAI;,44.973906,0.571932,mm,France,Europe,2022-04-18 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+324603,Influenza - Avian,;H5N1 HPAI;,45.067669,1.321885,DORNAC,France,Europe,2022-04-19 00:00:00+00:00,2022-06-12 00:00:00+00:00,"Domestic,Goose,",WOAH (former OIE),,,Confirmed
+321104,Influenza - Avian,;H5N1 HPAI;,44.931559,0.59421,ddd,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321061,Influenza - Avian,;H5N1 HPAI;,46.9532,-1.18503,boissiere-de-montaigu,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321099,Influenza - Avian,;H5N1 HPAI;,44.893875,1.603783,creysse,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321105,Influenza - Avian,;H5N1 HPAI;,45.024996,0.682925,VERGT,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321098,Influenza - Avian,;H5N1 HPAI;,44.934223,0.736951,zz,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321103,Influenza - Avian,;H5N1 HPAI;,46.556783,-1.612182,ccc,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321102,Influenza - Avian,;H5N1 HPAI;,46.597061,-1.612421,SAINTE-FLAIVE-DES-LOUPS,France,Europe,2022-04-19 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321108,Influenza - Avian,;H5N1 HPAI;,47.005605,-0.670249,fff,France,Europe,2022-04-20 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321109,Influenza - Avian,;H5N1 HPAI;,47.158267,-0.562854,ggg,France,Europe,2022-04-20 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321106,Influenza - Avian,;H5N1 HPAI;,44.488524,0.572279,PINEL-HAUTERIVE,France,Europe,2022-04-20 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321107,Influenza - Avian,;H5N1 HPAI;,46.580917,-0.773142,eee,France,Europe,2022-04-20 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321134,Influenza - Avian,;H5N1 HPAI;,44.626788,0.494038,SAINT-COLOMB-DE-LAUZUN,France,Europe,2022-04-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321135,Influenza - Avian,;H5N1 HPAI;,44.595117,0.698626,MONTAUT,France,Europe,2022-04-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321136,Influenza - Avian,;H5N1 HPAI;,44.676438,1.105486,BESSE,France,Europe,2022-04-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321137,Influenza - Avian,;H5N1 HPAI;,44.752756,1.387481,zzz,France,Europe,2022-04-21 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321081,Influenza - Avian,;H5N1 HPAI;,46.776787,-0.295575,MAISONTIERS,France,Europe,2022-04-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321096,Influenza - Avian,;H5N1 HPAI;,46.939509,-0.520129,VOULMENTIN,France,Europe,2022-04-23 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321078,Influenza - Avian,;H5N1 HPAI;,44.496595,0.647468,BEAUGAS,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321085,Influenza - Avian,;H5N1 HPAI;,45.026698,0.647104,SAINT-MAIME-DE-PEREYROL,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321082,Influenza - Avian,;H5N1 HPAI;,45.073293,0.664151,CREYSSENSAC-ET-PISSOT,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321084,Influenza - Avian,;H5N1 HPAI;,45.048106,1.314645,CASSAGNE,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321086,Influenza - Avian,;H5N1 HPAI;,45.031281,0.666361,SAINT-MAIME-DE-PEREYROL,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321145,Influenza - Avian,;H5N1 HPAI;,46.705527,-0.480449,LARGEASSE,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321077,Influenza - Avian,;H5N1 HPAI;,44.927715,0.552346,CAMPSEGRET,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321076,Influenza - Avian,;H5N1 HPAI;,45.427027,1.122156,ANGOISSE,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321075,Influenza - Avian,;H5N1 HPAI;,45.567773,0.814697,SAINT-SAUD-LACOUSSIERE,France,Europe,2022-04-24 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321147,Influenza - Avian,;H5N1 HPAI;,46.936338,-0.635544,NUEIL-LES-AUBIERS,France,Europe,2022-04-25 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322840,Influenza - Avian,;H5N1 HPAI;,46.713722,-0.497662,CHAPELLE-SAINT-LAURENT,France,Europe,2022-04-25 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+321138,Influenza - Avian,;H5N1 HPAI;,44.778666,0.644323,FAUX,France,Europe,2022-04-25 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321112,Influenza - Avian,;H5N1 HPAI;,45.124732,1.075911,THENON,France,Europe,2022-04-25 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321146,Influenza - Avian,;H5N1 HPAI;,46.88823,-0.375602,BRESSUIRE,France,Europe,2022-04-25 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321083,Influenza - Avian,;H5N1 HPAI;,46.999365,-1.279603,TREIZE-SEPTIERS,France,Europe,2022-04-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321097,Influenza - Avian,;H5N1 HPAI;,45.029649,1.345378,JAYAC,France,Europe,2022-04-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321080,Influenza - Avian,;H5N1 HPAI;,45.413266,0.980804,NANTHIAT,France,Europe,2022-04-26 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+321095,Influenza - Avian,;H5N1 HPAI;,46.602591,-0.33829,AZAY-SUR-THOUET,France,Europe,2022-04-27 00:00:00+00:00,2022-05-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322830,Influenza - Avian,;H5N1 HPAI;,44.563413,2.457476,SENERGUES,France,Europe,2022-05-05 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322828,Influenza - Avian,;H5N1 HPAI;,47.91453,0.745281, saint-calais,France,Europe,2022-05-05 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322829,Influenza - Avian,;H5N1 HPAI;,44.566488,2.446593,SENERGUES,France,Europe,2022-05-05 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+322842,Influenza - Avian,;H5N1 HPAI;,44.609873,0.345514,ROUMAGNE,France,Europe,2022-05-07 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+322833,Influenza - Avian,;H5N1 HPAI;,44.658345,0.820177,PARRANQUET,France,Europe,2022-05-10 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+322837,Influenza - Avian,;H5N1 HPAI;,45.269354,0.182913,LAPRADE,France,Europe,2022-05-14 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+322838,Influenza - Avian,;H5N1 HPAI;,44.726756,0.257752,SAINT-ASTIER,France,Europe,2022-05-15 00:00:00+00:00,2022-05-24 00:00:00+00:00,"Domestic,Duck,",WOAH (former OIE),,,Confirmed
+354663,Influenza - Avian,;H5N1 HPAI;,43.76884,0.154077,OB_119113 - IA20231041 - DÉMU (32115),France,Europe,2022-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+327097,Influenza - Avian,;H5N1 HPAI;,49.273099,-0.257858,OUISTREHAM,France,Europe,2022-06-29 00:00:00+00:00,2022-07-15 00:00:00+00:00,"Domestic,Chicken,",WOAH (former OIE),,,Confirmed
+327633,Influenza - Avian,;H5N1 HPAI;,49.273099,-0.257858,OUISTREHAM,France,Europe,2022-07-05 00:00:00+00:00,2022-07-22 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+328826,Influenza - Avian,;H5N1 HPAI;,49.946305,2.865077,FEUILLERES,France,Europe,2022-07-27 00:00:00+00:00,2022-08-05 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+328138,Influenza - Avian,;H5N1 HPAI;,49.501597,-1.625841,Bricquebec-en-Cotentin,France,Europe,2022-07-27 00:00:00+00:00,2022-08-01 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+329467,Influenza - Avian,;H5N1 HPAI;,47.913042,-2.319089,Ploermel,France,Europe,2022-08-16 00:00:00+00:00,2022-08-18 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+329889,Influenza - Avian,;H5N1 HPAI;,48.096734,-2.448869,MENEAC,France,Europe,2022-08-22 00:00:00+00:00,2022-08-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+329980,Influenza - Avian,;H5N1 HPAI;,48.151908,-2.133355,saint onen la chapelle,France,Europe,2022-08-25 00:00:00+00:00,2022-08-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+330008,Influenza - Avian,;H5N1 HPAI;,46.064114,5.138704,saint nizier le desert,France,Europe,2022-08-26 00:00:00+00:00,2022-08-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+330542,Influenza - Avian,;H5N1 HPAI;,48.2555,-2.0074,LADUJAN,France,Europe,2022-08-28 00:00:00+00:00,2022-09-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+330541,Influenza - Avian,;H5N1 HPAI;,50.1871,1.8007,LE TITRE,France,Europe,2022-08-29 00:00:00+00:00,2022-09-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+330540,Influenza - Avian,;H5N1 HPAI;,49.9529,2.5365,HEILLY,France,Europe,2022-08-29 00:00:00+00:00,2022-09-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331194,Influenza - Avian,;H5N1 HPAI;,46.070277,5.143497,SAINT-PAUL-DE-VARAX,France,Europe,2022-08-31 00:00:00+00:00,2022-09-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331218,Influenza - Avian,;H5N1 HPAI;,48.432704,-2.106864,TRELIVAN,France,Europe,2022-09-05 00:00:00+00:00,2022-09-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331776,Influenza - Avian,;H5N1 HPAI;,48.865176,5.502051,BISLEE,France,Europe,2022-09-05 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331777,Influenza - Avian,;H5N1 HPAI;,48.193379,-2.149447,SAINT-ONEN-LA-CHAPELLE,France,Europe,2022-09-07 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331784,Influenza - Avian,;H5N1 HPAI;,49.528029,0.411038,remuee,France,Europe,2022-09-10 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331790,Influenza - Avian,;H5N1 HPAI;,48.004925,-2.319975,neant-sur-yvel,France,Europe,2022-09-11 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331779,Influenza - Avian,;H5N1 HPAI;,50.180861,1.764894,a,France,Europe,2022-09-11 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+331778,Influenza - Avian,;H5N1 HPAI;,48.195388,-2.145784,SAINT-ONEN-LA-CHAPELLE,France,Europe,2022-09-12 00:00:00+00:00,2022-09-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+333541,Influenza - Avian,;H5N1 HPAI;,48.870273,0.230415,Roiville (61351),France,Europe,2022-10-13 00:00:00+00:00,2022-10-17 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+333542,Influenza - Avian,;H5N1 HPAI;,47.935553,-1.063578,Ballots (53018),France,Europe,2022-10-14 00:00:00+00:00,2022-10-17 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+333540,Influenza - Avian,;H5N1 HPAI;,47.473297,-1.588356,Saffré (44149),France,Europe,2022-10-14 00:00:00+00:00,2022-10-17 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+333539,Influenza - Avian,;H5N1 HPAI;,46.699429,-1.263708,La Chaize-le-Vicomte (85046),France,Europe,2022-10-14 00:00:00+00:00,2022-10-17 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+333538,Influenza - Avian,;H5N1 HPAI;,46.858192,-1.19634,Saint-Fulgent (85215),France,Europe,2022-10-15 00:00:00+00:00,2022-10-17 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+334605,Influenza - Avian,;H5N1 HPAI;,44.80201,1.612456,Rocamadour,France,Europe,2022-10-29 00:00:00+00:00,2022-11-04 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+336310,Influenza - Avian,;H5N1 HPAI;,48.77942,2.063775,Guyancourt (78297),France,Europe,2022-11-12 00:00:00+00:00,2022-11-25 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+336309,Influenza - Avian,;H5N1 HPAI;,47.33777,0.757619,Saint-Avertin (37208),France,Europe,2022-11-14 00:00:00+00:00,2022-11-25 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+336334,Influenza - Avian,;H5N1 HPAI;,49.43616,0.866127,Anneville-Ambourville (76020),France,Europe,2022-11-15 00:00:00+00:00,2022-11-25 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+336308,Influenza - Avian,;H5N1 HPAI;,43.87777,-1.291877,Léon (40150),France,Europe,2022-11-22 00:00:00+00:00,2022-11-25 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337259,Influenza - Avian,;H5N1 HPAI;,47.84094,-0.64919,Azé (53014),France,Europe,2022-11-23 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337584,Influenza - Avian,;H5N1 HPAI;,46.999496,-0.66769,Mauléon (79079),France,Europe,2022-11-26 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337600,Influenza - Avian,;H5N1 HPAI;,46.740036,-0.754479,Menomblet (85141),France,Europe,2022-11-27 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337594,Influenza - Avian,;H5N1 HPAI;,47.006604,-0.669611,Les Cerqueux (49058),France,Europe,2022-11-28 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337601,Influenza - Avian,;H5N1 HPAI;,46.8568,-0.91393,Saint-Mars-la-Réorthe (85242),France,Europe,2022-11-28 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337586,Influenza - Avian,;H5N1 HPAI;,46.854909,-0.64208,Cirières (79091),France,Europe,2022-11-28 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337596,Influenza - Avian,;H5N1 HPAI;,46.698717,-0.888858,Tallud-Sainte-Gemme (85287),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337465,Influenza - Avian,;H5N1 HPAI;,46.85325,-0.943482,Saint-Mars-la-Réorthe (85242),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337598,Influenza - Avian,;H5N1 HPAI;,46.975994,-1.409041,Vieillevigne (44216),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337599,Influenza - Avian,;H5N1 HPAI;,46.96634,-1.28369,La Guyonnière (85107),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337597,Influenza - Avian,;H5N1 HPAI;,46.851812,-0.948833,Saint-Mars-la-Réorthe (85242),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337593,Influenza - Avian,;H5N1 HPAI;,46.828726,-1.789397,Challans (85047),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337595,Influenza - Avian,;H5N1 HPAI;,46.820062,-1.896283,Soullans (85284),France,Europe,2022-11-29 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337590,Influenza - Avian,;H5N1 HPAI;,47.207827,-0.884254,Beaupréau-en-Mauges (49023),France,Europe,2022-11-30 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337592,Influenza - Avian,;H5N1 HPAI;,46.858699,-0.934977,Saint-Mars-la-Réorthe (85242),France,Europe,2022-11-30 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337591,Influenza - Avian,;H5N1 HPAI;,46.881395,-0.923975,Les Epesses (85082),France,Europe,2022-11-30 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337464,Influenza - Avian,;H5N1 HPAI;,46.77864,-0.9843,Rochetrejoux (85192),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337589,Influenza - Avian,;H5N1 HPAI;,47.195336,-1.06943,Montrevault-sur-Èvre (49218),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337583,Influenza - Avian,;H5N1 HPAI;,46.699522,-0.742786,Fontenay-le-Comte,France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337582,Influenza - Avian,;H5N1 HPAI;,46.93944,-0.955129,La Verrie (85302),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337578,Influenza - Avian,;H5N1 HPAI;,47.149689,-1.019445,Beaupréau-en-Mauges (49023),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337587,Influenza - Avian,;H5N1 HPAI;,46.948369,-0.453837,Argentonnay (79013),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337579,Influenza - Avian,;H5N1 HPAI;,46.853355,-0.625558,Cirières (79091),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337585,Influenza - Avian,;H5N1 HPAI;,46.256199,-0.320105,Prahecq (79216),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337588,Influenza - Avian,;H5N1 HPAI;,47.022505,-0.411633,Argentonnay (79013),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337576,Influenza - Avian,;H5N1 HPAI;,47.186047,-0.96825,Beaupréau-en-Mauges (49023),France,Europe,2022-12-01 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337577,Influenza - Avian,;H5N1 HPAI;,46.873668,-0.61564,Bretignolles (79050),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337581,Influenza - Avian,;H5N1 HPAI;,44.976541,1.263345,Saint-Geniès (24412),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337573,Influenza - Avian,;H5N1 HPAI;,46.849625,-0.81401,Sèvremont (85090),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337580,Influenza - Avian,;H5N1 HPAI;,44.981655,1.291367,Saint-Geniès (24412),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337575,Influenza - Avian,;H5N1 HPAI;,47.157521,-1.00387,Beaupréau-en-Mauges (49023),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337463,Influenza - Avian,;H5N1 HPAI;,46.84241,-0.927396,Sèvremont (85090),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337574,Influenza - Avian,;H5N1 HPAI;,47.135203,-1.00244,Sèvremoine (49301),France,Europe,2022-12-02 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337460,Influenza - Avian,;H5N1 HPAI;,47.1967,-0.957324,Beaupréau-en-Mauges (49023),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337572,Influenza - Avian,;H5N1 HPAI;,47.216044,-0.871531,Beaupréau-en-Mauges (49023),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337570,Influenza - Avian,;H5N1 HPAI;,46.977491,-0.92581,Mortagne-sur-Sèvre (85151),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337571,Influenza - Avian,;H5N1 HPAI;,46.945998,-0.927493,Saint-Laurent-sur-Sèvre (85238),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337459,Influenza - Avian,;H5N1 HPAI;,46.89639,-0.656899,Le Pin (79210),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337458,Influenza - Avian,;H5N1 HPAI;,46.85649,-0.942065,Saint-Mars-la-Réorthe (85242),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337466,Influenza - Avian,;H5N1 HPAI;,47.426324,-1.46803,Petit-Mars (44122),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337462,Influenza - Avian,;H5N1 HPAI;,47.19666,-0.957554,Beaupréau-en-Mauges (49023),France,Europe,2022-12-03 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337453,Influenza - Avian,;H5N1 HPAI;,47.43499,-1.398807,Les Touches (44205),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337455,Influenza - Avian,;H5N1 HPAI;,46.69297,-0.880027,Tallud-Sainte-Gemme (85287),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337454,Influenza - Avian,;H5N1 HPAI;,46.98948,-0.671516,Mauléon (79079),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337461,Influenza - Avian,;H5N1 HPAI;,47.42739,-1.4668,Petit-Mars (44122),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337457,Influenza - Avian,;H5N1 HPAI;,46.25416,-0.32817,Prahecq (79216),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337456,Influenza - Avian,;H5N1 HPAI;,46.86764,-0.544464,Bressuire (79049),France,Europe,2022-12-04 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337452,Influenza - Avian,;H5N1 HPAI;,47.20162,-0.886849,Beaupréau-en-Mauges (49023),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337304,Influenza - Avian,;H5N1 HPAI;,47.08982,-1.021443,Sèvremoine (49301),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337298,Influenza - Avian,;H5N1 HPAI;,44.97535,1.293237,Saint-Geniès (24412),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337450,Influenza - Avian,;H5N1 HPAI;,46.78849,-1.016845,Rochetrejoux (85192),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337305,Influenza - Avian,;H5N1 HPAI;,46.77044,-1.025549,Mouchamps (85153),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337451,Influenza - Avian,;H5N1 HPAI;,46.82257,-0.958939,Saint-Paul-en-Pareds (85259),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337449,Influenza - Avian,;H5N1 HPAI;,46.78383,-0.943274,Le Boupère (85031),France,Europe,2022-12-05 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337292,Influenza - Avian,;H5N1 HPAI;,46.56619,-1.634905,Le Girouard (85099),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337302,Influenza - Avian,;H5N1 HPAI;,46.80263,-1.069661,Mouchamps (85153),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337303,Influenza - Avian,;H5N1 HPAI;,47.12338,-1.037542,Sèvremoine (49301),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337301,Influenza - Avian,;H5N1 HPAI;,46.75627,-0.885005,Le Boupère (85031),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337299,Influenza - Avian,;H5N1 HPAI;,47.075271,-1.108403,Sèvremoine (49301),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337300,Influenza - Avian,;H5N1 HPAI;,46.93637,-0.635503,Nueil-les-Aubiers (79195),France,Europe,2022-12-06 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337297,Influenza - Avian,;H5N1 HPAI;,47.21342,-0.878955,Beaupréau-en-Mauges (49023),France,Europe,2022-12-07 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337295,Influenza - Avian,;H5N1 HPAI;,46.75488,-0.731879,Montournais (85147),France,Europe,2022-12-07 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337294,Influenza - Avian,;H5N1 HPAI;,46.8652,-0.785017,Saint-Amand-sur-Sèvre (79235),France,Europe,2022-12-07 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337296,Influenza - Avian,;H5N1 HPAI;,47.14252,-1.008056,Sèvremoine (49301),France,Europe,2022-12-07 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+337293,Influenza - Avian,;H5N1 HPAI;,46.92942,-0.634741,Nueil-les-Aubiers (79195),France,Europe,2022-12-07 00:00:00+00:00,2022-12-09 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338054,Influenza - Avian,;H5N1 HPAI;,47.12815,1.618618,Poulaines (36162),France,Europe,2022-12-09 00:00:00+00:00,2022-12-16 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338364,Influenza - Avian,;H5N1 HPAI;,44.988417,1.266666,Saint-Geniès (24412) Type *,France,Europe,2022-12-14 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338373,Influenza - Avian,;H5N1 HPAI;,46.683526,-1.168019,Saint-Hilaire-le-Vouhis (85232),France,Europe,2022-12-14 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338365,Influenza - Avian,;H5N1 HPAI;,47.169486,-1.075326,Beaupréau-en-Mauges (49023),France,Europe,2022-12-14 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338374,Influenza - Avian,;H5N1 HPAI;,47.051372,-1.109576,Sèvremoine (49301),France,Europe,2022-12-14 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338370,Influenza - Avian,;H5N1 HPAI;,46.748765,-0.732301,Menomblet (85141),France,Europe,2022-12-15 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338371,Influenza - Avian,;H5N1 HPAI;,46.967299,-1.352497,Boufféré (85027),France,Europe,2022-12-15 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338369,Influenza - Avian,;H5N1 HPAI;,46.615084,-0.863196,Thouarsais-Bouildroux (85292),France,Europe,2022-12-15 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338368,Influenza - Avian,;H5N1 HPAI;,46.71098,-0.821442,Réaumur (85187),France,Europe,2022-12-15 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338372,Influenza - Avian,;H5N1 HPAI;,47.22222,-1.054909,Montrevault-sur-Èvre (49218),France,Europe,2022-12-15 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338367,Influenza - Avian,;H5N1 HPAI;,47.319549,-1.06531,Mauges-sur-Loire (49244),France,Europe,2022-12-16 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+338366,Influenza - Avian,;H5N1 HPAI;,47.221067,-1.122133,Montrevault-sur-Èvre (49218),France,Europe,2022-12-16 00:00:00+00:00,2022-12-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339420,Influenza - Avian,;H5N1 HPAI;,48.66241,5.214866,Nant-le-Petit (55374),France,Europe,2022-12-20 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339181,Influenza - Avian,;H5N1 HPAI;,46.922312,-0.689995,MAULÉON (79079),France,Europe,2022-12-20 00:00:00+00:00,2022-12-28 00:00:00+00:00,"Domestic,Cats,",WOAH (former OIE),,,Confirmed
+339430,Influenza - Avian,;H5N1 HPAI;,46.899787,-1.809018,La Garnache (85096),France,Europe,2022-12-23 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339429,Influenza - Avian,;H5N1 HPAI;,46.514917,-0.982549,Saint-Étienne-de-Brillouet (85209),France,Europe,2022-12-23 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339431,Influenza - Avian,;H5N1 HPAI;,47.307654,-1.083609,Montrevault-sur-Èvre (49218),France,Europe,2022-12-23 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339432,Influenza - Avian,;H5N1 HPAI;,43.67225,0.081196,Aignan (32001),France,Europe,2022-12-24 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339942,Influenza - Avian,;H5N1 HPAI;,47.562852,1.235744,Valencisse (41142),France,Europe,2022-12-24 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339419,Influenza - Avian,;H5N1 HPAI;,49.528735,-1.44889,Tamerville (50588),France,Europe,2022-12-26 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339954,Influenza - Avian,;H5N1 HPAI;,44.025185,4.938184,Monteux (84080),France,Europe,2022-12-26 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339424,Influenza - Avian,;H5N1 HPAI;,46.867607,-1.687743,Falleron (85086),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339433,Influenza - Avian,;H5N1 HPAI;,47.043931,-1.67887,Saint-Philbert-de-Grand-Lieu (44188),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339426,Influenza - Avian,;H5N1 HPAI;,46.849038,-1.460118, Les Lucs-sur-Boulogne (85129) ,France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339427,Influenza - Avian,;H5N1 HPAI;,47.699592,-0.850502,Segré-en-Anjou Bleu (49331),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339423,Influenza - Avian,;H5N1 HPAI;,46.575238,-0.963649,La Chapelle-Thémer (85056),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339428,Influenza - Avian,;H5N1 HPAI;,46.675352,-0.96972, Bazoges-en-Pareds (85014) ,France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339422,Influenza - Avian,;H5N1 HPAI;,43.67976,0.07185,Aignan (32001),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339436,Influenza - Avian,;H5N1 HPAI;,46.877017,-1.4643,Les Lucs-sur-Boulogne (85129),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339425,Influenza - Avian,;H5N1 HPAI;,46.88767,-1.651837,Touvois (44206),France,Europe,2022-12-27 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339434,Influenza - Avian,;H5N1 HPAI;,46.829075,-0.837921,Sèvremont (85090),France,Europe,2022-12-28 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339956,Influenza - Avian,;H5N1 HPAI;,48.312107,-3.090703,Canihuel (22029),France,Europe,2022-12-28 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339957,Influenza - Avian,;H5N1 HPAI;,46.722429,-0.252047,Lageon (79145),France,Europe,2022-12-28 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339955,Influenza - Avian,;H5N1 HPAI;,46.545427,-0.882113,Marsais-Sainte-RadÃ©gonde (85137),France,Europe,2022-12-28 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339435,Influenza - Avian,;H5N1 HPAI;,46.781204,-0.808129,Pouzauges (85182),France,Europe,2022-12-29 00:00:00+00:00,2022-12-30 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339941,Influenza - Avian,;H5N1 HPAI;,43.816223,4.946658,Mollégès (13064),France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339951,Influenza - Avian,;H5N1 HPAI;,46.871747,-1.681186,Falleron (85086),France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339949,Influenza - Avian,;H5N1 HPAI;,46.8898,-1.288087, Chavagnes-en-Paillers (85065) ,France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339948,Influenza - Avian,;H5N1 HPAI;,46.926642,-1.514592, RocheserviÃšre (85190) ,France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339950,Influenza - Avian,;H5N1 HPAI;,46.978605,-1.635054,La LimouziniÃšre (44083),France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339952,Influenza - Avian,;H5N1 HPAI;,46.882846,-1.130491, Saint-Fulgent (85215) ,France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339953,Influenza - Avian,;H5N1 HPAI;,46.873963,-1.678624,Falleron (85086),France,Europe,2023-01-02 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339947,Influenza - Avian,;H5N1 HPAI;,46.623267,-0.780568, Antigny (85005) ,France,Europe,2023-01-03 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+339946,Influenza - Avian,;H5N1 HPAI;,43.637571,0.093578, CouloumÃ©-Mondebat (32109) ,France,Europe,2023-01-03 00:00:00+00:00,2023-01-06 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+341205,Influenza - Avian,;H5N1 HPAI;,45.031903,4.0084, Saint-Pierre-Eynac (43218) ,France,Europe,2023-01-03 00:00:00+00:00,2023-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+341217,Influenza - Avian,;H5N1 HPAI;,45.76591,2.381639,Flayat (23081),France,Europe,2023-01-04 00:00:00+00:00,2023-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+341206,Influenza - Avian,;H5N1 HPAI;,47.46292,-1.761087, Blain (44015) ,France,Europe,2023-01-04 00:00:00+00:00,2023-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+341207,Influenza - Avian,;H5N1 HPAI;,48.391209,-1.182454, LandÃ©an (35142) ,France,Europe,2023-01-06 00:00:00+00:00,2023-01-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342077,Influenza - Avian,;H5N1 HPAI;,47.615193,-1.108962, Vritz (44219) ,France,Europe,2023-01-09 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342076,Influenza - Avian,;H5N1 HPAI;,47.32771,-1.121324, OrÃ©e d'Anjou (49069) ,France,Europe,2023-01-13 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342068,Influenza - Avian,;H5N1 HPAI;,46.67428,-0.752672, La TardiÃšre (85289) ,France,Europe,2023-01-16 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342069,Influenza - Avian,;H5N1 HPAI;,47.07703,-1.592295, La ChevroliÃšre (44041) ,France,Europe,2023-01-16 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342071,Influenza - Avian,;H5N1 HPAI;,43.81285,0.22107, Ramouzens (32338) ,France,Europe,2023-01-17 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342070,Influenza - Avian,;H5N1 HPAI;,47.63114,-1.001408, LoirÃ© (49178) ,France,Europe,2023-01-17 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342074,Influenza - Avian,;H5N1 HPAI;,43.852876,0.046618, Eauze (32119) ,France,Europe,2023-01-17 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342075,Influenza - Avian,;H5N1 HPAI;,43.81563,0.073566, Manciet (32227) ,France,Europe,2023-01-17 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342073,Influenza - Avian,;H5N1 HPAI;,43.81262,-0.125246, Laujuzan (32202) ,France,Europe,2023-01-17 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+342072,Influenza - Avian,;H5N1 HPAI;,43.81115,0.092367, Manciet (32227) ,France,Europe,2023-01-18 00:00:00+00:00,2023-01-20 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343392,Influenza - Avian,;H5N1 HPAI;,48.061874,2.067952, Neuville-aux-Bois (45224) ,France,Europe,2023-01-19 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343072,Influenza - Avian,;H5N1 HPAI;,43.58879,-1.087011, Cagnotte (40059) ,France,Europe,2023-01-20 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343390,Influenza - Avian,;H5N1 HPAI;,49.041253,1.564431, Bennecourt (78057) ,France,Europe,2023-01-20 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343071,Influenza - Avian,;H5N1 HPAI;,43.8631,-0.031533, Type *,France,Europe,2023-01-21 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343389,Influenza - Avian,;H5N1 HPAI;,47.764159,1.592438, Tavers (45317) ,France,Europe,2023-01-22 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343074,Influenza - Avian,;H5N1 HPAI;,43.601348,-1.077537, Cagnotte (40059) ,France,Europe,2023-01-24 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343073,Influenza - Avian,;H5N1 HPAI;,43.601672,-1.079043, Cagnotte (40059) ,France,Europe,2023-01-24 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343388,Influenza - Avian,;H5N1 HPAI;,43.68621,0.054574, Aignan (32001) ,France,Europe,2023-01-25 00:00:00+00:00,2023-01-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343739,Influenza - Avian,;H5N1 HPAI;,48.405573,-3.10194, Saint-Connan (22284) ,France,Europe,2023-01-30 00:00:00+00:00,2023-02-03 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+343740,Influenza - Avian,;H5N1 HPAI;,48.673643,-3.31673,Prat (22254),France,Europe,2023-01-31 00:00:00+00:00,2023-02-03 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347116,Influenza - Avian,;H5N1 HPAI;,47.453307,4.270387, Vic-de-Chassenay (21676) ,France,Europe,2023-02-10 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347122,Influenza - Avian,;H5N1 HPAI;,48.550102,-1.247095, Saint-Laurent-de-Terregatte (50500) ,France,Europe,2023-02-13 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347172,Influenza - Avian,;H5N1 HPAI;,50.458409,3.526674, Bruille-Saint-Amand (59114) ,France,Europe,2023-02-15 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347180,Influenza - Avian,;H5N1 HPAI;,48.415811,-3.037782,Saint-Connan (22284),France,Europe,2023-02-16 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347183,Influenza - Avian,;H5N1 HPAI;,44.006705,0.83799, Mansonville (82102) ,France,Europe,2023-02-16 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347115,Influenza - Avian,;H5N1 HPAI;,50.635118,2.259152, ThÃ©rouanne (62811) ,France,Europe,2023-02-16 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347184,Influenza - Avian,;H5N1 HPAI;,48.465314,-3.075047,Saint-PÃ©ver (22322),France,Europe,2023-02-17 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347182,Influenza - Avian,;H5N1 HPAI;,48.368249,-3.105446, Saint-Gilles-Pligeaux (22294) ,France,Europe,2023-02-18 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347185,Influenza - Avian,;H5N1 HPAI;,48.43652,-3.0763, Senven-LÃ©hart (22335) ,France,Europe,2023-02-20 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347177,Influenza - Avian,;H5N1 HPAI;,48.41938,-3.092655, Saint-Connan (22284) ,France,Europe,2023-02-21 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347178,Influenza - Avian,;H5N1 HPAI;,48.438304,-3.067383, Senven-LÃ©hart (22335) ,France,Europe,2023-02-22 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347181,Influenza - Avian,;H5N1 HPAI;,48.467698,-3.066973, Saint-PÃ©ver (22322) ,France,Europe,2023-02-22 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347179,Influenza - Avian,;H5N1 HPAI;,48.466678,-3.082941, Saint-PÃ©ver (22322) ,France,Europe,2023-02-22 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+347176,Influenza - Avian,;H5N1 HPAI;,43.987776,0.805344, Peyrecave (32314) ,France,Europe,2023-02-22 00:00:00+00:00,2023-02-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+349326,Influenza - Avian,;H5N1 HPAI;,47.858773,2.886873,SAINT-MAURICE-SUR-AVEYRON (45292),France,Europe,2023-03-09 00:00:00+00:00,2023-03-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+351914,Influenza - Avian,;H5N1 HPAI;,48.460134,1.310886,Saint-Aubin-des-Bois (28325),France,Europe,2023-03-10 00:00:00+00:00,2023-04-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+349161,Influenza - Avian,;H5N1 HPAI;,48.460134,1.310886,Saint-Aubin-des-Bois (28325),France,Europe,2023-03-10 00:00:00+00:00,2023-03-24 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353356,Influenza - Avian,;H5N1 HPAI;,43.637623,0.09387,COULOUMÉ-MONDEBAT (32109),France,Europe,2023-05-02 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353357,Influenza - Avian,;H5N1 HPAI;,43.811437,0.090634,MANCIET (32227),France,Europe,2023-05-04 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353349,Influenza - Avian,;H5N1 HPAI;,43.810162,0.083663,MANCIET (32227),France,Europe,2023-05-05 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353351,Influenza - Avian,;H5N1 HPAI;,43.804525,0.063887,MANCIET (32227),France,Europe,2023-05-05 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353350,Influenza - Avian,;H5N1 HPAI;,43.798553,0.100028,MANCIET (32227),France,Europe,2023-05-05 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353348,Influenza - Avian,;H5N1 HPAI;,43.814162,0.073721,MANCIET (32227),France,Europe,2023-05-05 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353355,Influenza - Avian,;H5N1 HPAI;,43.77875,-0.327684,BORDÈRES-ET-LAMENSANS (40049),France,Europe,2023-05-07 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353352,Influenza - Avian,;H5N1 HPAI;,43.649281,0.042248,POUYDRAGUIN (32325),France,Europe,2023-05-08 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353353,Influenza - Avian,;H5N1 HPAI;,43.659922,-0.008557,TERMES-D'ARMAGNAC (32443),France,Europe,2023-05-08 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353354,Influenza - Avian,;H5N1 HPAI;,43.649751,0.044682,POUYDRAGUIN (32325),France,Europe,2023-05-08 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353344,Influenza - Avian,;H5N1 HPAI;,43.67551,0.005971,FUSTÉROUAU (32135),France,Europe,2023-05-08 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353343,Influenza - Avian,;H5N1 HPAI;,43.719427,-0.098735,SAINT-GRIÈDE (32380),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353345,Influenza - Avian,;H5N1 HPAI;,43.684441,-0.030684,TERMES-D'ARMAGNAC (32443),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353342,Influenza - Avian,;H5N1 HPAI;,43.718174,-0.084982,SAINT-GRIÈDE (32380),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353347,Influenza - Avian,;H5N1 HPAI;,43.66392,0.037589,POUYDRAGUIN (32325),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353346,Influenza - Avian,;H5N1 HPAI;,43.672442,0.08151,AIGNAN (32001),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353341,Influenza - Avian,;H5N1 HPAI;,43.81974,-0.04096,SALLES-D'ARMAGNAC (32408),France,Europe,2023-05-09 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353339,Influenza - Avian,;H5N1 HPAI;,43.748429,-0.246122,CAZÈRES-SUR-L'ADOUR (40080),France,Europe,2023-05-10 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353337,Influenza - Avian,;H5N1 HPAI;,43.815149,-0.122646,LAUJUZAN (32202),France,Europe,2023-05-10 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353338,Influenza - Avian,;H5N1 HPAI;,43.813477,-0.488216,BENQUET (40037),France,Europe,2023-05-10 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353340,Influenza - Avian,;H5N1 HPAI;,43.735306,-0.257578,AIRE-SUR-L'ADOUR (40001),France,Europe,2023-05-10 00:00:00+00:00,2023-05-12 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353949,Influenza - Avian,;H5N1 HPAI;,43.712864,-0.062137,OB_118545 - IA20230932 - SAINT-MARTIN-D'ARMAGNAC (32390),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353947,Influenza - Avian,;H5N1 HPAI;,43.819556,-0.040625,OB_118547 - IA20230944 - SALLES-D'ARMAGNAC (32408),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353950,Influenza - Avian,;H5N1 HPAI;,43.353284,-0.2739,OB_118544 - IA20230930 - MAUCOR (64370),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353948,Influenza - Avian,;H5N1 HPAI;,43.771012,-0.294125,OB_118546 - IA20230940 - LE VIGNAU (40329),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353946,Influenza - Avian,;H5N1 HPAI;,43.764881,-0.297957,OB_118549 - IA20230923 - LE VIGNAU (40329),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353951,Influenza - Avian,;H5N1 HPAI;,43.381641,-0.400003,OB_118543 - IA20230929 - SAUVAGNON (64511),France,Europe,2023-05-12 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353944,Influenza - Avian,;H5N1 HPAI;,43.69287,0.002715,OB_118552 - IA20230952 - FUSTÉROUAU (32135),France,Europe,2023-05-15 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353945,Influenza - Avian,;H5N1 HPAI;,43.667832,0.04828,OB_118551 - IA20230947 - POUYDRAGUIN (32325),France,Europe,2023-05-15 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353943,Influenza - Avian,;H5N1 HPAI;,43.733342,0.033264,OB_118553 - IA20230954 - LOUBÉDAT (32214),France,Europe,2023-05-15 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353938,Influenza - Avian,;H5N1 HPAI;,43.817372,-0.247225,OB_118717 - IA20230968 - HONTANX (40127),France,Europe,2023-05-15 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353939,Influenza - Avian,;H5N1 HPAI;,43.8141,-0.371873,OB_118687 - IA20230962 - MAURRIN (40175),France,Europe,2023-05-16 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353940,Influenza - Avian,;H5N1 HPAI;,43.806471,-0.374939,OB_118677 - IA20230955 - MAURRIN (40175),France,Europe,2023-05-16 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353942,Influenza - Avian,;H5N1 HPAI;,43.760685,-0.197181,OB_118640 - IA20230965 - LE HOUGA (32155),France,Europe,2023-05-16 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353941,Influenza - Avian,;H5N1 HPAI;,43.831984,0.035579,OB_118641 - IA20230967 - MANCIET (32227),France,Europe,2023-05-16 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353932,Influenza - Avian,;H5N1 HPAI;,43.747535,0.141815,OB_118917 - IA20230984 - DÉMU (32115),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353931,Influenza - Avian,;H5N1 HPAI;,43.923572,-0.116298,OB_118918 - IA20230986 - MONCLAR (32264),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353934,Influenza - Avian,;H5N1 HPAI;,43.692932,0.15482,OB_118915 - IA20230975 - LUPIAC (32219),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353929,Influenza - Avian,;H5N1 HPAI;,43.706973,0.143871,OB_118920 - IA20230989 - LUPIAC (32219),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353937,Influenza - Avian,;H5N1 HPAI;,43.743268,0.18325,OB_118907 - IA20230970 - DÉMU (32115),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353933,Influenza - Avian,;H5N1 HPAI;,43.844488,0.074881,OB_118916 - IA20230979 - EAUZE (32119),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353928,Influenza - Avian,;H5N1 HPAI;,43.746868,0.243472,OB_118921 - IA20230990 - CASTILLON-DEBATS (32088),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353936,Influenza - Avian,;H5N1 HPAI;,43.736245,0.025592,OB_118910 - IA20230971 - LOUBÉDAT (32214),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353919,Influenza - Avian,;H5N1 HPAI;,43.761301,-0.250431,OB_118934 - IA20230985 - CAZÈRES-SUR-L'ADOUR (40080),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353935,Influenza - Avian,;H5N1 HPAI;,43.651448,0.036164,OB_118914 - IA20230972 - POUYDRAGUIN (32325),France,Europe,2023-05-17 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353920,Influenza - Avian,;H5N1 HPAI;,43.813708,-0.318257,OB_118933 - IA20230982 - SAINT-GEIN (40259),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353918,Influenza - Avian,;H5N1 HPAI;,43.798075,-0.399246,OB_118935 - IA20231002 - GRENADE-SUR-L'ADOUR (40117),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353917,Influenza - Avian,;H5N1 HPAI;,43.768249,-0.508702,OB_118936 - IA20231000 - MONTGAILLARD (40195),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353916,Influenza - Avian,;H5N1 HPAI;,43.805414,-0.466919,OB_118937 - IA20231018 - SAINT-MAURICE-SUR-ADOUR (40275),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353923,Influenza - Avian,;H5N1 HPAI;,43.71177,-0.150139,OB_118927 - IA20231016 - LELIN-LAPUJOLLE (32209),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353924,Influenza - Avian,;H5N1 HPAI;,43.749727,0.03858,OB_118926 - IA20231012 - LOUBÉDAT (32214),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353925,Influenza - Avian,;H5N1 HPAI;,43.678622,-0.192796,OB_118925 - IA20231010 - GÉE-RIVIÈRE (32145),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353926,Influenza - Avian,;H5N1 HPAI;,43.70326,0.19112,OB_118924 - IA20230998 - LUPIAC (32219),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353930,Influenza - Avian,;H5N1 HPAI;,43.738835,0.196726,OB_118919 - IA20230987 - CASTILLON-DEBATS (32088),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353927,Influenza - Avian,;H5N1 HPAI;,43.863081,-0.031569,OB_118922 - IA20230994 - AYZIEU (32025),France,Europe,2023-05-18 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355782,Influenza - Avian,;H5N1 HPAI;,43.742031,-0.239726,AIRE-SUR-L'ADOUR (40001),France,Europe,2023-05-19 00:00:00+00:00,2023-06-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354665,Influenza - Avian,;H5N1 HPAI;,43.437217,0.561543,OB_119111 - IA20231026 - MASSEUBE (32242),France,Europe,2023-05-19 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353921,Influenza - Avian,;H5N1 HPAI;,43.934045,-0.09292,OB_118930 - IA20231019 - CAZAUBON (32096),France,Europe,2023-05-19 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+353922,Influenza - Avian,;H5N1 HPAI;,43.664022,0.117062,OB_118929 - IA20231017 - CASTELNAVET (32081),France,Europe,2023-05-19 00:00:00+00:00,2023-05-19 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354507,Influenza - Avian,;H5N1 HPAI;,43.86304,-0.027087,Ayzieu (32025),France,Europe,2023-05-20 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354669,Influenza - Avian,;H5N1 HPAI;,43.633764,-0.156208,OB_119019 - IA20231040 - LABARTHÈTE (32170),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354672,Influenza - Avian,;H5N1 HPAI;,43.775061,-0.269493,OB_118966 - IA20230948 - CAZÈRES-SUR-L'ADOUR (40080),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354674,Influenza - Avian,;H5N1 HPAI;,43.755987,-0.200075,OB_118963 - IA20231021 - LE HOUGA (32155),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354659,Influenza - Avian,;H5N1 HPAI;,43.808711,-0.198354,OB_119143 - IA20231070 - BOURDALAT (40052),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354668,Influenza - Avian,;H5N1 HPAI;,43.752079,-0.436042,OB_119021 - IA20231036 - LARRIVIÈRE-SAINT-SAVIN (40145),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354664,Influenza - Avian,;H5N1 HPAI;,43.60359,-0.162227,OB_119112 - IA20231039 - VIELLA (32463),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354673,Influenza - Avian,;H5N1 HPAI;,43.566539,0.112422,OB_118964 - IA20231029 - BEAUMARCHÉS (32036),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354675,Influenza - Avian,;H5N1 HPAI;,43.680063,0.071631,OB_118962 - IA20231020 - AIGNAN (32001),France,Europe,2023-05-21 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354670,Influenza - Avian,;H5N1 HPAI;,43.649212,0.163966,OB_118968 - IA20231037 - SAINT-PIERRE-D'AUBÉZIES (32403),France,Europe,2023-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354662,Influenza - Avian,;H5N1 HPAI;,43.53731,-0.766346,OB_119140 - IA20231051 - BONNUT (64135),France,Europe,2023-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354671,Influenza - Avian,;H5N1 HPAI;,43.763138,-0.469321,OB_118967 - IA20231032 - MONTGAILLARD (40195),France,Europe,2023-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354666,Influenza - Avian,;H5N1 HPAI;,43.792295,-0.346436,OB_119025 - IA20231038 - CASTANDET (40070),France,Europe,2023-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354667,Influenza - Avian,;H5N1 HPAI;,43.658618,0.192032,OB_119022 - IA20231042 - LUPIAC (32219),France,Europe,2023-05-22 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354660,Influenza - Avian,;H5N1 HPAI;,43.714343,-0.340192,OB_119142 - IA20231035 - DUHORT-BACHEN (40091),France,Europe,2023-05-23 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354661,Influenza - Avian,;H5N1 HPAI;,43.662737,-0.423022,OB_119141 - IA20231050 - CASTELNAU-TURSAN (40072),France,Europe,2023-05-23 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355135,Influenza - Avian,;H5N1 HPAI;,43.604739,0.314916,OB_119399 - IA20231085 - MONTESQUIOU (32285),France,Europe,2023-05-24 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+354658,Influenza - Avian,;H5N1 HPAI;,43.677918,0.123911,OB_119144 - IA20231072 - CASTELNAVET (32081),France,Europe,2023-05-24 00:00:00+00:00,2023-05-26 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355134,Influenza - Avian,;H5N1 HPAI;,43.39862,0.454006,OB_119402 - IA20231099 - SAUVIAC (32419),France,Europe,2023-05-25 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355130,Influenza - Avian,;H5N1 HPAI;,43.609615,0.327517,OB_119746 - IA20231125 - SAINT-ARAILLES (32360),France,Europe,2023-05-26 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355136,Influenza - Avian,;H5N1 HPAI;,47.97468,2.943899,OB_119775 - IA20231140 - SAINT-FIRMIN-DES-BOIS (45275),France,Europe,2023-05-26 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355133,Influenza - Avian,;H5N1 HPAI;,43.60883,-0.41114,OB_119403 - IA20231111 - PUYOL-CAZALET (40239),France,Europe,2023-05-26 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355128,Influenza - Avian,;H5N1 HPAI;,43.264434,0.574712,OB_119748 - IA20231124 - LALANNE (65249),France,Europe,2023-05-26 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355132,Influenza - Avian,;H5N1 HPAI;,43.814961,0.298641,OB_119404 - IA20231127 - SAINT-GEIN (40259),France,Europe,2023-05-27 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355131,Influenza - Avian,;H5N1 HPAI;,43.600635,0.319017,OB_119685 - IA20231135 - MONTESQUIOU (32285),France,Europe,2023-05-29 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355127,Influenza - Avian,;H5N1 HPAI;,43.607,-0.313,OB_119749 - IA20231147 - MIRAMONT-SENSACQ (40185) TYPE *,France,Europe,2023-05-30 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+355129,Influenza - Avian,;H5N1 HPAI;,43.63668,0.278339,OB_119747 - IA20231139 - SÉGOS (32424),France,Europe,2023-05-30 00:00:00+00:00,2023-06-02 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+356666,Influenza - Avian,;H5N1 HPAI;,43.600214,0.323634,MONTESQUIOU (32285),France,Europe,2023-06-12 00:00:00+00:00,2023-06-23 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+358422,Influenza - Avian,;H5N1 HPAI;,47.979201,2.840444,Saint-Germain-des-Prés (45279),France,Europe,2023-06-27 00:00:00+00:00,2023-07-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+358421,Influenza - Avian,;H5N1 HPAI;,50.440585,1.677137,Airon-Notre-Dame (62015),France,Europe,2023-06-29 00:00:00+00:00,2023-07-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+358420,Influenza - Avian,;H5N1 HPAI;,43.878213,-0.761322,Saint-Yaguen (40285),France,Europe,2023-07-10 00:00:00+00:00,2023-07-13 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+387699,Influenza - Avian,;H5N1 HPAI;,50.572162,2.235736,140095 BOMY (62153) ,France,Europe,2024-09-18 00:00:00+00:00,2024-09-27 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+388877,Influenza - Avian,;H5N1 HPAI;,46.99269,4.516878,141432ÉPINAC (71190),France,Europe,2024-10-09 00:00:00+00:00,2024-10-21 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+390661,Influenza - Avian,;H5N1 HPAI;,46.599988,2.89416,143196THENEUILLE (03282),France,Europe,2024-11-07 00:00:00+00:00,2024-11-14 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed
+397833,Influenza - Avian,;H5N1 HPAI;,44.912437,0.933052,148135LE BUGUE (24067),France,Europe,2025-01-20 00:00:00+00:00,2025-01-28 00:00:00+00:00,"Domestic,Unspecified bird,",WOAH (former OIE),,,Confirmed

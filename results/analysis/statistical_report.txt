@@ -1,0 +1,17 @@
+HPAI Vaccination Impact Analysis Report
+=====================================
+
+Pre-Vaccination Period Statistics:
+Average monthly outbreaks: 43.61
+Standard deviation: 74.78
+Number of months: 23
+
+Vaccination Period Statistics:
+Average monthly outbreaks: 0.08
+Standard deviation: 0.29
+Number of months: 12
+
+Post-Vaccination Period Statistics:
+Average monthly outbreaks: 0.75
+Standard deviation: 0.50
+Number of months: 4
