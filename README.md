@@ -5,5 +5,3 @@ This repository contains the analysis and visualization code to examine how effe
 ## Project Overview
 
 This research analyzes HPAI outbreak data from November 2021 to January 2025, comparing France's patterns with other European countries. The analysis demonstrates the impact of France's pioneering vaccination campaign, which began in October 2023.
-
-## Directory Structure
